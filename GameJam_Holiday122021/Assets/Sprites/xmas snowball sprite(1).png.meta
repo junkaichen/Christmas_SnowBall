@@ -1,0 +1,6057 @@
+fileFormatVersion: 2
+guid: 10edc8a2801fc1a41a429092ab4bbeb0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2269884181286588671
+    second: xmas snowball sprite(1)_0
+  - first:
+      213: -2703586592184483099
+    second: xmas snowball sprite(1)_1
+  - first:
+      213: -5866490122869258659
+    second: xmas snowball sprite(1)_2
+  - first:
+      213: 4364203699190528754
+    second: xmas snowball sprite(1)_3
+  - first:
+      213: 1727785315995886820
+    second: xmas snowball sprite(1)_4
+  - first:
+      213: -6209806743689569413
+    second: xmas snowball sprite(1)_5
+  - first:
+      213: -7998274700080270137
+    second: xmas snowball sprite(1)_6
+  - first:
+      213: 3772393133428939099
+    second: xmas snowball sprite(1)_7
+  - first:
+      213: 8042632213610967859
+    second: xmas snowball sprite(1)_8
+  - first:
+      213: -7922283358256151217
+    second: xmas snowball sprite(1)_9
+  - first:
+      213: 4209394488418232755
+    second: xmas snowball sprite(1)_10
+  - first:
+      213: -4017384264173099010
+    second: xmas snowball sprite(1)_11
+  - first:
+      213: -2983506849883193543
+    second: xmas snowball sprite(1)_12
+  - first:
+      213: -3130668052120134090
+    second: xmas snowball sprite(1)_13
+  - first:
+      213: -2350306608542625447
+    second: xmas snowball sprite(1)_14
+  - first:
+      213: -4597252896111455227
+    second: xmas snowball sprite(1)_15
+  - first:
+      213: 5345324602018933329
+    second: xmas snowball sprite(1)_16
+  - first:
+      213: 2553209152505691246
+    second: xmas snowball sprite(1)_17
+  - first:
+      213: -2149790996466641148
+    second: xmas snowball sprite(1)_18
+  - first:
+      213: 881430017282183154
+    second: xmas snowball sprite(1)_19
+  - first:
+      213: -3035225283520066282
+    second: xmas snowball sprite(1)_20
+  - first:
+      213: -5405056297096681202
+    second: xmas snowball sprite(1)_21
+  - first:
+      213: 8599949712721270930
+    second: xmas snowball sprite(1)_22
+  - first:
+      213: -7850810712271630440
+    second: xmas snowball sprite(1)_23
+  - first:
+      213: 2580351092044657783
+    second: xmas snowball sprite(1)_24
+  - first:
+      213: -4053372416419211379
+    second: xmas snowball sprite(1)_25
+  - first:
+      213: 5214506176724195217
+    second: xmas snowball sprite(1)_26
+  - first:
+      213: -1736412032227960981
+    second: xmas snowball sprite(1)_27
+  - first:
+      213: -7912663957638379156
+    second: xmas snowball sprite(1)_28
+  - first:
+      213: -907206527554079209
+    second: xmas snowball sprite(1)_29
+  - first:
+      213: 541686575204222608
+    second: xmas snowball sprite(1)_30
+  - first:
+      213: 450084736995158335
+    second: xmas snowball sprite(1)_31
+  - first:
+      213: 5838728359064198259
+    second: xmas snowball sprite(1)_32
+  - first:
+      213: -1674107234599344892
+    second: xmas snowball sprite(1)_33
+  - first:
+      213: 6840186605142190137
+    second: xmas snowball sprite(1)_34
+  - first:
+      213: 6560810775654464658
+    second: xmas snowball sprite(1)_35
+  - first:
+      213: -1057996635141135601
+    second: xmas snowball sprite(1)_36
+  - first:
+      213: -6030126977981995143
+    second: xmas snowball sprite(1)_37
+  - first:
+      213: 9108129134278630351
+    second: xmas snowball sprite(1)_38
+  - first:
+      213: -1604550780149795209
+    second: xmas snowball sprite(1)_39
+  - first:
+      213: -1760289116319408341
+    second: xmas snowball sprite(1)_40
+  - first:
+      213: 7137828066746102594
+    second: xmas snowball sprite(1)_41
+  - first:
+      213: -5540795803202811586
+    second: xmas snowball sprite(1)_42
+  - first:
+      213: 5500305408343446201
+    second: xmas snowball sprite(1)_43
+  - first:
+      213: -3174602300640916382
+    second: xmas snowball sprite(1)_44
+  - first:
+      213: -5862137508879327105
+    second: xmas snowball sprite(1)_45
+  - first:
+      213: -6123037996100387046
+    second: xmas snowball sprite(1)_46
+  - first:
+      213: -3666506152666099393
+    second: xmas snowball sprite(1)_47
+  - first:
+      213: -6717836107707487756
+    second: xmas snowball sprite(1)_48
+  - first:
+      213: -67789967158700050
+    second: xmas snowball sprite(1)_49
+  - first:
+      213: 5702868571910888359
+    second: xmas snowball sprite(1)_50
+  - first:
+      213: 1579680919226258503
+    second: xmas snowball sprite(1)_51
+  - first:
+      213: 6820420185342285660
+    second: xmas snowball sprite(1)_52
+  - first:
+      213: 6066868365909961940
+    second: xmas snowball sprite(1)_53
+  - first:
+      213: -6791954703843740488
+    second: xmas snowball sprite(1)_54
+  - first:
+      213: 7889146152456798370
+    second: xmas snowball sprite(1)_55
+  - first:
+      213: 9084232668190939695
+    second: xmas snowball sprite(1)_56
+  - first:
+      213: 5993079008162902070
+    second: xmas snowball sprite(1)_57
+  - first:
+      213: -3387589762543833695
+    second: xmas snowball sprite(1)_58
+  - first:
+      213: -5833371798269925297
+    second: xmas snowball sprite(1)_59
+  - first:
+      213: -4212284268801658483
+    second: xmas snowball sprite(1)_60
+  - first:
+      213: 1724490723643733441
+    second: xmas snowball sprite(1)_61
+  - first:
+      213: -8678187320573906427
+    second: xmas snowball sprite(1)_62
+  - first:
+      213: 6080965223580174807
+    second: xmas snowball sprite(1)_63
+  - first:
+      213: -7707080227030281670
+    second: xmas snowball sprite(1)_64
+  - first:
+      213: 203705919113245392
+    second: xmas snowball sprite(1)_65
+  - first:
+      213: -6397358018050868212
+    second: xmas snowball sprite(1)_66
+  - first:
+      213: -3531498834997169459
+    second: xmas snowball sprite(1)_67
+  - first:
+      213: -757163966490240889
+    second: xmas snowball sprite(1)_68
+  - first:
+      213: 4411161694205168282
+    second: xmas snowball sprite(1)_69
+  - first:
+      213: -304516806411787475
+    second: xmas snowball sprite(1)_70
+  - first:
+      213: 7167894079643876794
+    second: xmas snowball sprite(1)_71
+  - first:
+      213: -2382169574802043119
+    second: xmas snowball sprite(1)_72
+  - first:
+      213: 8090815758036489113
+    second: xmas snowball sprite(1)_73
+  - first:
+      213: 3001322842693350422
+    second: xmas snowball sprite(1)_74
+  - first:
+      213: -6844821989182469065
+    second: xmas snowball sprite(1)_75
+  - first:
+      213: 940092174996547003
+    second: xmas snowball sprite(1)_76
+  - first:
+      213: -271094562965284871
+    second: xmas snowball sprite(1)_77
+  - first:
+      213: -7155656623264842319
+    second: xmas snowball sprite(1)_78
+  - first:
+      213: -6001522354811925881
+    second: xmas snowball sprite(1)_79
+  - first:
+      213: 1586667418940109205
+    second: xmas snowball sprite(1)_80
+  - first:
+      213: 7605388701653315748
+    second: xmas snowball sprite(1)_81
+  - first:
+      213: 621667967574419563
+    second: xmas snowball sprite(1)_82
+  - first:
+      213: 4040660734223225357
+    second: xmas snowball sprite(1)_83
+  - first:
+      213: -4913276845385050573
+    second: xmas snowball sprite(1)_84
+  - first:
+      213: 8669133280282429909
+    second: xmas snowball sprite(1)_85
+  - first:
+      213: -1510258296386092064
+    second: xmas snowball sprite(1)_86
+  - first:
+      213: 7612294365546380576
+    second: xmas snowball sprite(1)_87
+  - first:
+      213: -7871253352364269683
+    second: xmas snowball sprite(1)_88
+  - first:
+      213: -4558415029729155335
+    second: xmas snowball sprite(1)_89
+  - first:
+      213: -3072635149509961916
+    second: xmas snowball sprite(1)_90
+  - first:
+      213: -1668760717773387849
+    second: xmas snowball sprite(1)_91
+  - first:
+      213: -6854759327483499869
+    second: xmas snowball sprite(1)_92
+  - first:
+      213: 4699861403047102292
+    second: xmas snowball sprite(1)_93
+  - first:
+      213: -5491244745881081792
+    second: xmas snowball sprite(1)_94
+  - first:
+      213: 7157777142340817401
+    second: xmas snowball sprite(1)_95
+  - first:
+      213: 2690992404383339638
+    second: xmas snowball sprite(1)_96
+  - first:
+      213: 5014604879466756572
+    second: xmas snowball sprite(1)_97
+  - first:
+      213: -6517689171750119668
+    second: xmas snowball sprite(1)_98
+  - first:
+      213: 5922122458798994655
+    second: xmas snowball sprite(1)_99
+  - first:
+      213: -4729992133728596523
+    second: xmas snowball sprite(1)_100
+  - first:
+      213: 7473265601325801949
+    second: xmas snowball sprite(1)_101
+  - first:
+      213: -1323307934953834922
+    second: xmas snowball sprite(1)_102
+  - first:
+      213: 3927509258849398411
+    second: xmas snowball sprite(1)_103
+  - first:
+      213: -5512448249505960159
+    second: xmas snowball sprite(1)_104
+  - first:
+      213: 609797711027428461
+    second: xmas snowball sprite(1)_105
+  - first:
+      213: 2052356064844168553
+    second: xmas snowball sprite(1)_106
+  - first:
+      213: 1784302633745165794
+    second: xmas snowball sprite(1)_107
+  - first:
+      213: 8211197126800242773
+    second: xmas snowball sprite(1)_108
+  - first:
+      213: 8342017024370767661
+    second: xmas snowball sprite(1)_109
+  - first:
+      213: 7570185468877493352
+    second: xmas snowball sprite(1)_110
+  - first:
+      213: 5352427498236660463
+    second: xmas snowball sprite(1)_111
+  - first:
+      213: 3358400799876550388
+    second: xmas snowball sprite(1)_112
+  - first:
+      213: -1468130929633715903
+    second: xmas snowball sprite(1)_113
+  - first:
+      213: -3159734745646318301
+    second: xmas snowball sprite(1)_114
+  - first:
+      213: 1222411852326359533
+    second: xmas snowball sprite(1)_115
+  - first:
+      213: -21720970414914160
+    second: xmas snowball sprite(1)_116
+  - first:
+      213: 4744231342418085246
+    second: xmas snowball sprite(1)_117
+  - first:
+      213: -904429893830689903
+    second: xmas snowball sprite(1)_118
+  - first:
+      213: -1037009277066589498
+    second: xmas snowball sprite(1)_119
+  - first:
+      213: -3011225276766016342
+    second: xmas snowball sprite(1)_120
+  - first:
+      213: -3043538748944688820
+    second: xmas snowball sprite(1)_121
+  - first:
+      213: 3921783332766755631
+    second: xmas snowball sprite(1)_122
+  - first:
+      213: 3924180987363178257
+    second: xmas snowball sprite(1)_123
+  - first:
+      213: 2058366261034055469
+    second: xmas snowball sprite(1)_124
+  - first:
+      213: 8318647662628215268
+    second: xmas snowball sprite(1)_125
+  - first:
+      213: -6786884995141155408
+    second: xmas snowball sprite(1)_126
+  - first:
+      213: -8102028601656795338
+    second: xmas snowball sprite(1)_127
+  - first:
+      213: -6520367941962105563
+    second: xmas snowball sprite(1)_128
+  - first:
+      213: 5117690144419431504
+    second: xmas snowball sprite(1)_129
+  - first:
+      213: 5147262978727327341
+    second: xmas snowball sprite(1)_130
+  - first:
+      213: 7633701607265823801
+    second: xmas snowball sprite(1)_131
+  - first:
+      213: -2173168610143838970
+    second: xmas snowball sprite(1)_132
+  - first:
+      213: 6454005987925751541
+    second: xmas snowball sprite(1)_133
+  - first:
+      213: -6111117800841872888
+    second: xmas snowball sprite(1)_134
+  - first:
+      213: 4802800766239061845
+    second: xmas snowball sprite(1)_135
+  - first:
+      213: 4485877049639938492
+    second: xmas snowball sprite(1)_136
+  - first:
+      213: -3857934078603909530
+    second: xmas snowball sprite(1)_137
+  - first:
+      213: 6666668629883362719
+    second: xmas snowball sprite(1)_138
+  - first:
+      213: -8480631414538551673
+    second: xmas snowball sprite(1)_139
+  - first:
+      213: -4001467879039856875
+    second: xmas snowball sprite(1)_140
+  - first:
+      213: 4021336746999569356
+    second: xmas snowball sprite(1)_141
+  - first:
+      213: 4322837347540194878
+    second: xmas snowball sprite(1)_142
+  - first:
+      213: 8404498501806894203
+    second: xmas snowball sprite(1)_143
+  - first:
+      213: -4061018650406778108
+    second: xmas snowball sprite(1)_144
+  - first:
+      213: 914261211882315982
+    second: xmas snowball sprite(1)_145
+  - first:
+      213: -3358838016824991128
+    second: xmas snowball sprite(1)_146
+  - first:
+      213: 7325185865702803295
+    second: xmas snowball sprite(1)_147
+  - first:
+      213: -4791447313838403678
+    second: xmas snowball sprite(1)_148
+  - first:
+      213: 3434713436334023849
+    second: xmas snowball sprite(1)_149
+  - first:
+      213: -8700274003714751401
+    second: xmas snowball sprite(1)_150
+  - first:
+      213: -220155864404153087
+    second: xmas snowball sprite(1)_151
+  - first:
+      213: 8554885818861643661
+    second: xmas snowball sprite(1)_152
+  - first:
+      213: 114613609181549635
+    second: xmas snowball sprite(1)_153
+  - first:
+      213: 8231745040327007361
+    second: xmas snowball sprite(1)_154
+  - first:
+      213: -2974358429976940890
+    second: xmas snowball sprite(1)_155
+  - first:
+      213: -8646582546652731894
+    second: xmas snowball sprite(1)_156
+  - first:
+      213: 6963672983454166282
+    second: xmas snowball sprite(1)_157
+  - first:
+      213: 7418442415952566019
+    second: xmas snowball sprite(1)_158
+  - first:
+      213: -3460042400660171756
+    second: xmas snowball sprite(1)_159
+  - first:
+      213: -3158737785360241508
+    second: xmas snowball sprite(1)_160
+  - first:
+      213: -3060453178054410201
+    second: xmas snowball sprite(1)_161
+  - first:
+      213: -3776969753154365808
+    second: xmas snowball sprite(1)_162
+  - first:
+      213: 1293216845879694468
+    second: xmas snowball sprite(1)_163
+  - first:
+      213: -491532662845859492
+    second: xmas snowball sprite(1)_164
+  - first:
+      213: 8565886257541893042
+    second: xmas snowball sprite(1)_165
+  - first:
+      213: 344403958993918552
+    second: xmas snowball sprite(1)_166
+  - first:
+      213: 8108920618378279479
+    second: xmas snowball sprite(1)_167
+  - first:
+      213: -1384969697948503989
+    second: xmas snowball sprite(1)_168
+  - first:
+      213: -4267036629624236252
+    second: xmas snowball sprite(1)_169
+  - first:
+      213: 8183228558873116079
+    second: xmas snowball sprite(1)_170
+  - first:
+      213: -1338074519835479991
+    second: xmas snowball sprite(1)_171
+  - first:
+      213: 5801896290919600620
+    second: xmas snowball sprite(1)_172
+  - first:
+      213: -4877372631439385656
+    second: xmas snowball sprite(1)_173
+  - first:
+      213: -234947435961266746
+    second: xmas snowball sprite(1)_174
+  - first:
+      213: 6057553063253557758
+    second: xmas snowball sprite(1)_175
+  - first:
+      213: -9033172566988447280
+    second: xmas snowball sprite(1)_176
+  - first:
+      213: 3587682992009597710
+    second: xmas snowball sprite(1)_177
+  - first:
+      213: -1560453590395215462
+    second: xmas snowball sprite(1)_178
+  - first:
+      213: -8014975979875932
+    second: xmas snowball sprite(1)_179
+  - first:
+      213: -6018709704167979214
+    second: xmas snowball sprite(1)_180
+  - first:
+      213: 610037706129178096
+    second: xmas snowball sprite(1)_181
+  - first:
+      213: 4114576554348786005
+    second: xmas snowball sprite(1)_182
+  - first:
+      213: 3287154384750132434
+    second: xmas snowball sprite(1)_183
+  - first:
+      213: -5994250301934113653
+    second: xmas snowball sprite(1)_184
+  - first:
+      213: 1759027334751064485
+    second: xmas snowball sprite(1)_185
+  - first:
+      213: 2350745771008340824
+    second: xmas snowball sprite(1)_186
+  - first:
+      213: -7745653594793840556
+    second: xmas snowball sprite(1)_187
+  - first:
+      213: 8519826307635877720
+    second: xmas snowball sprite(1)_188
+  - first:
+      213: 7904413088750504483
+    second: xmas snowball sprite(1)_189
+  - first:
+      213: -4541515934864286244
+    second: xmas snowball sprite(1)_190
+  - first:
+      213: 6147886240478492601
+    second: xmas snowball sprite(1)_191
+  - first:
+      213: -7132345964606360135
+    second: xmas snowball sprite(1)_192
+  - first:
+      213: -2831622846870640754
+    second: xmas snowball sprite(1)_193
+  - first:
+      213: 7842043404294644680
+    second: xmas snowball sprite(1)_194
+  - first:
+      213: -1518867511163945403
+    second: xmas snowball sprite(1)_195
+  - first:
+      213: -1834146765471849042
+    second: xmas snowball sprite(1)_196
+  - first:
+      213: -2204491937094401211
+    second: xmas snowball sprite(1)_197
+  - first:
+      213: -8389991576147264153
+    second: xmas snowball sprite(1)_198
+  - first:
+      213: 4879995932804366308
+    second: xmas snowball sprite(1)_199
+  - first:
+      213: 7318533940428910292
+    second: xmas snowball sprite(1)_200
+  - first:
+      213: -8491791088620542475
+    second: xmas snowball sprite(1)_201
+  - first:
+      213: 522891063916633880
+    second: xmas snowball sprite(1)_202
+  - first:
+      213: -907931738323658358
+    second: xmas snowball sprite(1)_203
+  - first:
+      213: 3467011717968324804
+    second: xmas snowball sprite(1)_204
+  - first:
+      213: -6475855642730130420
+    second: xmas snowball sprite(1)_205
+  - first:
+      213: 5058238100551506221
+    second: xmas snowball sprite(1)_206
+  - first:
+      213: -806177674360099968
+    second: xmas snowball sprite(1)_207
+  - first:
+      213: -1014545094254708547
+    second: xmas snowball sprite(1)_208
+  - first:
+      213: -3317884654769037339
+    second: xmas snowball sprite(1)_209
+  - first:
+      213: 3721427937221107819
+    second: xmas snowball sprite(1)_210
+  - first:
+      213: -6308966265940816284
+    second: xmas snowball sprite(1)_211
+  - first:
+      213: -6973283514739993725
+    second: xmas snowball sprite(1)_212
+  - first:
+      213: 3795658831113562055
+    second: xmas snowball sprite(1)_213
+  - first:
+      213: -7616028343432303356
+    second: xmas snowball sprite(1)_214
+  - first:
+      213: -7312517141583653617
+    second: xmas snowball sprite(1)_215
+  - first:
+      213: -1582631645944408180
+    second: xmas snowball sprite(1)_216
+  - first:
+      213: -2645632191633530186
+    second: xmas snowball sprite(1)_217
+  - first:
+      213: -3276888817792301870
+    second: xmas snowball sprite(1)_218
+  - first:
+      213: 4525362403220978562
+    second: xmas snowball sprite(1)_219
+  - first:
+      213: -387452795372846926
+    second: xmas snowball sprite(1)_220
+  - first:
+      213: 4370886083853587182
+    second: xmas snowball sprite(1)_221
+  - first:
+      213: -1701269025999772624
+    second: xmas snowball sprite(1)_222
+  - first:
+      213: -2357418532657230087
+    second: xmas snowball sprite(1)_223
+  - first:
+      213: 997480493662370569
+    second: xmas snowball sprite(1)_224
+  - first:
+      213: -8293307541536216880
+    second: xmas snowball sprite(1)_225
+  - first:
+      213: 7350524886197611276
+    second: xmas snowball sprite(1)_226
+  - first:
+      213: 7720458198451486172
+    second: xmas snowball sprite(1)_227
+  - first:
+      213: -4644731712059059186
+    second: xmas snowball sprite(1)_228
+  - first:
+      213: 2769086148263588788
+    second: xmas snowball sprite(1)_229
+  - first:
+      213: -1715414605769117694
+    second: xmas snowball sprite(1)_230
+  - first:
+      213: -5845918567337325600
+    second: xmas snowball sprite(1)_231
+  - first:
+      213: 8461949531710377236
+    second: xmas snowball sprite(1)_232
+  - first:
+      213: -4348716779940895398
+    second: xmas snowball sprite(1)_233
+  - first:
+      213: -3016648874210886945
+    second: xmas snowball sprite(1)_234
+  - first:
+      213: 7386943328670013038
+    second: xmas snowball sprite(1)_235
+  - first:
+      213: 1308677753361698881
+    second: xmas snowball sprite(1)_236
+  - first:
+      213: -9079162536211212884
+    second: xmas snowball sprite(1)_237
+  - first:
+      213: -9149168413016108038
+    second: xmas snowball sprite(1)_238
+  - first:
+      213: 3448544815304616090
+    second: xmas snowball sprite(1)_239
+  - first:
+      213: -5331111658260483590
+    second: xmas snowball sprite(1)_240
+  - first:
+      213: 1134115120103866989
+    second: xmas snowball sprite(1)_241
+  - first:
+      213: 1660437569119322204
+    second: xmas snowball sprite(1)_242
+  - first:
+      213: 1347684516799610916
+    second: xmas snowball sprite(1)_243
+  - first:
+      213: -4696321047049874751
+    second: xmas snowball sprite(1)_244
+  - first:
+      213: 6611706222772717894
+    second: xmas snowball sprite(1)_245
+  - first:
+      213: -2274071785099199152
+    second: xmas snowball sprite(1)_246
+  - first:
+      213: 7799712977700079632
+    second: xmas snowball sprite(1)_247
+  - first:
+      213: -2243728500268128089
+    second: xmas snowball sprite(1)_248
+  - first:
+      213: -8538785604409192465
+    second: xmas snowball sprite(1)_249
+  - first:
+      213: -7291692202020454003
+    second: xmas snowball sprite(1)_250
+  - first:
+      213: 5662674689587305137
+    second: xmas snowball sprite(1)_251
+  - first:
+      213: 5165018952974609830
+    second: xmas snowball sprite(1)_252
+  - first:
+      213: -4549482241637687511
+    second: xmas snowball sprite(1)_253
+  - first:
+      213: 805174907427040834
+    second: xmas snowball sprite(1)_254
+  - first:
+      213: 6413230600542152445
+    second: xmas snowball sprite(1)_255
+  - first:
+      213: -2913308429663255651
+    second: xmas snowball sprite(1)_256
+  - first:
+      213: 4141104639290330434
+    second: xmas snowball sprite(1)_257
+  - first:
+      213: -1131561518086880361
+    second: xmas snowball sprite(1)_258
+  - first:
+      213: 7610173016661389486
+    second: xmas snowball sprite(1)_259
+  - first:
+      213: 4914182850274885068
+    second: xmas snowball sprite(1)_260
+  - first:
+      213: 1537029886549381971
+    second: xmas snowball sprite(1)_261
+  - first:
+      213: -2696395500843070462
+    second: xmas snowball sprite(1)_262
+  - first:
+      213: -7354023439899197359
+    second: xmas snowball sprite(1)_263
+  - first:
+      213: 679407183534929114
+    second: xmas snowball sprite(1)_264
+  - first:
+      213: -9091566262998122275
+    second: xmas snowball sprite(1)_265
+  - first:
+      213: 5363920970400556147
+    second: xmas snowball sprite(1)_266
+  - first:
+      213: 1839085872749059363
+    second: xmas snowball sprite(1)_267
+  - first:
+      213: -4026311614188549476
+    second: xmas snowball sprite(1)_268
+  - first:
+      213: 4829828422296847986
+    second: xmas snowball sprite(1)_269
+  - first:
+      213: 7057854505226664410
+    second: xmas snowball sprite(1)_270
+  - first:
+      213: -5001239284333838977
+    second: xmas snowball sprite(1)_271
+  - first:
+      213: 1199983546831456038
+    second: xmas snowball sprite(1)_272
+  - first:
+      213: 7494319179027003326
+    second: xmas snowball sprite(1)_273
+  - first:
+      213: -8447585789291428892
+    second: xmas snowball sprite(1)_274
+  - first:
+      213: 5576290922419811617
+    second: xmas snowball sprite(1)_275
+  - first:
+      213: -7601832403145734791
+    second: xmas snowball sprite(1)_276
+  - first:
+      213: -6215085727811828014
+    second: xmas snowball sprite(1)_277
+  - first:
+      213: -3352811978830718443
+    second: xmas snowball sprite(1)_278
+  - first:
+      213: -8006554149475690114
+    second: xmas snowball sprite(1)_279
+  - first:
+      213: -2268808821755511794
+    second: xmas snowball sprite(1)_280
+  - first:
+      213: -311357581272698958
+    second: xmas snowball sprite(1)_281
+  - first:
+      213: 217044819189220067
+    second: xmas snowball sprite(1)_282
+  - first:
+      213: -5951867842874328206
+    second: xmas snowball sprite(1)_283
+  - first:
+      213: -6732943105142223805
+    second: xmas snowball sprite(1)_284
+  - first:
+      213: -2624000978633247617
+    second: xmas snowball sprite(1)_285
+  - first:
+      213: -6048137253657718440
+    second: xmas snowball sprite(1)_286
+  - first:
+      213: -3989878749262252939
+    second: xmas snowball sprite(1)_287
+  - first:
+      213: 7594303367688079535
+    second: xmas snowball sprite(1)_288
+  - first:
+      213: -1627158492634279139
+    second: xmas snowball sprite(1)_289
+  - first:
+      213: 7153057648820233485
+    second: xmas snowball sprite(1)_290
+  - first:
+      213: 1863427616886803859
+    second: xmas snowball sprite(1)_291
+  - first:
+      213: -5754157012057720099
+    second: xmas snowball sprite(1)_292
+  - first:
+      213: -35875632151309732
+    second: xmas snowball sprite(1)_293
+  - first:
+      213: 1680163793682995824
+    second: xmas snowball sprite(1)_294
+  - first:
+      213: 1672784056127674240
+    second: xmas snowball sprite(1)_295
+  - first:
+      213: 815419370474709815
+    second: xmas snowball sprite(1)_296
+  - first:
+      213: -7152492282300229314
+    second: xmas snowball sprite(1)_297
+  - first:
+      213: -3768363334244937263
+    second: xmas snowball sprite(1)_298
+  - first:
+      213: -924175840872945251
+    second: xmas snowball sprite(1)_299
+  - first:
+      213: 5556160126066267635
+    second: xmas snowball sprite(1)_300
+  - first:
+      213: 2474629252711492668
+    second: xmas snowball sprite(1)_301
+  - first:
+      213: -2244563161984559128
+    second: xmas snowball sprite(1)_302
+  - first:
+      213: 6262748795707242746
+    second: xmas snowball sprite(1)_303
+  - first:
+      213: 9078410095134746719
+    second: xmas snowball sprite(1)_304
+  - first:
+      213: -8987184829328267622
+    second: xmas snowball sprite(1)_305
+  - first:
+      213: -8663157141741191653
+    second: xmas snowball sprite(1)_306
+  - first:
+      213: -748830312243115633
+    second: xmas snowball sprite(1)_307
+  - first:
+      213: -8132577743883328709
+    second: xmas snowball sprite(1)_308
+  - first:
+      213: 6938734088395511567
+    second: xmas snowball sprite(1)_309
+  - first:
+      213: 7484262138778725534
+    second: xmas snowball sprite(1)_310
+  - first:
+      213: 4291342793256954537
+    second: xmas snowball sprite(1)_311
+  - first:
+      213: -1424624723838861034
+    second: xmas snowball sprite(1)_312
+  - first:
+      213: 4068239671390795883
+    second: xmas snowball sprite(1)_313
+  - first:
+      213: -1789930958249279139
+    second: xmas snowball sprite(1)_314
+  - first:
+      213: 5459811305848212705
+    second: xmas snowball sprite(1)_315
+  - first:
+      213: 5789524734553897836
+    second: xmas snowball sprite(1)_316
+  - first:
+      213: 703877854013185631
+    second: xmas snowball sprite(1)_317
+  - first:
+      213: 2710464881543178595
+    second: xmas snowball sprite(1)_318
+  - first:
+      213: 4678323871989270212
+    second: xmas snowball sprite(1)_319
+  - first:
+      213: -5837881528521691113
+    second: xmas snowball sprite(1)_320
+  - first:
+      213: 7615648183034836765
+    second: xmas snowball sprite(1)_321
+  - first:
+      213: -1636117086467165571
+    second: xmas snowball sprite(1)_322
+  - first:
+      213: 5065500349545147140
+    second: xmas snowball sprite(1)_323
+  - first:
+      213: -5576801480393976867
+    second: xmas snowball sprite(1)_324
+  - first:
+      213: -6093657469324563315
+    second: xmas snowball sprite(1)_325
+  - first:
+      213: 4594338483493491265
+    second: xmas snowball sprite(1)_326
+  - first:
+      213: -6922684543933057181
+    second: xmas snowball sprite(1)_327
+  - first:
+      213: 2139098717338522024
+    second: xmas snowball sprite(1)_328
+  - first:
+      213: 7193528119369971720
+    second: xmas snowball sprite(1)_329
+  - first:
+      213: 7846099061776243150
+    second: xmas snowball sprite(1)_330
+  - first:
+      213: 1415667410068495820
+    second: xmas snowball sprite(1)_331
+  - first:
+      213: -5457701006543899797
+    second: xmas snowball sprite(1)_332
+  - first:
+      213: 7868090847531885432
+    second: xmas snowball sprite(1)_333
+  - first:
+      213: -6171067758940699305
+    second: xmas snowball sprite(1)_334
+  - first:
+      213: -197035112153008294
+    second: xmas snowball sprite(1)_335
+  - first:
+      213: -3934636237270397861
+    second: xmas snowball sprite(1)_336
+  - first:
+      213: 1350325674161837913
+    second: xmas snowball sprite(1)_337
+  - first:
+      213: 6762846596665654930
+    second: xmas snowball sprite(1)_338
+  - first:
+      213: 5281599803416421987
+    second: xmas snowball sprite(1)_339
+  - first:
+      213: 8122344553778399470
+    second: xmas snowball sprite(1)_340
+  - first:
+      213: 4772946512106953277
+    second: xmas snowball sprite(1)_341
+  - first:
+      213: -3186604719521052083
+    second: xmas snowball sprite(1)_342
+  - first:
+      213: -5204478264426310692
+    second: xmas snowball sprite(1)_343
+  - first:
+      213: -4589201631059150889
+    second: xmas snowball sprite(1)_344
+  - first:
+      213: -196967127127749474
+    second: xmas snowball sprite(1)_345
+  - first:
+      213: 1349663316767063035
+    second: xmas snowball sprite(1)_346
+  - first:
+      213: 1831723511672874045
+    second: xmas snowball sprite(1)_347
+  - first:
+      213: 5458151506994947731
+    second: xmas snowball sprite(1)_348
+  - first:
+      213: -6853563553678599253
+    second: xmas snowball sprite(1)_349
+  - first:
+      213: -3661926388279030077
+    second: xmas snowball sprite(1)_350
+  - first:
+      213: -2823696723058098910
+    second: xmas snowball sprite(1)_351
+  - first:
+      213: 3427092298043881897
+    second: xmas snowball sprite(1)_352
+  - first:
+      213: 1234069192898167607
+    second: xmas snowball sprite(1)_353
+  - first:
+      213: -5807978133487193986
+    second: xmas snowball sprite(1)_354
+  - first:
+      213: -2986629460714155406
+    second: xmas snowball sprite(1)_355
+  - first:
+      213: 1419514187344476674
+    second: xmas snowball sprite(1)_356
+  - first:
+      213: 6147478426148098008
+    second: xmas snowball sprite(1)_357
+  - first:
+      213: -198795095238948796
+    second: xmas snowball sprite(1)_358
+  - first:
+      213: 4047991705527325123
+    second: xmas snowball sprite(1)_359
+  - first:
+      213: 4566981610396344166
+    second: xmas snowball sprite(1)_360
+  - first:
+      213: 5289327296479927986
+    second: xmas snowball sprite(1)_361
+  - first:
+      213: -1602144027278405539
+    second: xmas snowball sprite(1)_362
+  - first:
+      213: -8597078011911442189
+    second: xmas snowball sprite(1)_363
+  - first:
+      213: 3670126322953536062
+    second: xmas snowball sprite(1)_364
+  - first:
+      213: -5739400138529049476
+    second: xmas snowball sprite(1)_365
+  - first:
+      213: -4733598082425452441
+    second: xmas snowball sprite(1)_366
+  - first:
+      213: -6696466656993179041
+    second: xmas snowball sprite(1)_367
+  - first:
+      213: -3811009792291558933
+    second: xmas snowball sprite(1)_368
+  - first:
+      213: -5966649212503675192
+    second: xmas snowball sprite(1)_369
+  - first:
+      213: -7001528196296174150
+    second: xmas snowball sprite(1)_370
+  - first:
+      213: 6509315024125686780
+    second: xmas snowball sprite(1)_371
+  - first:
+      213: -9209219429228414293
+    second: xmas snowball sprite(1)_372
+  - first:
+      213: -3400724106423469585
+    second: xmas snowball sprite(1)_373
+  - first:
+      213: -8351820392059578067
+    second: xmas snowball sprite(1)_374
+  - first:
+      213: 7767085893914806689
+    second: xmas snowball sprite(1)_375
+  - first:
+      213: -6077182620079245535
+    second: xmas snowball sprite(1)_376
+  - first:
+      213: 8361941903668037521
+    second: xmas snowball sprite(1)_377
+  - first:
+      213: 7523571766777006986
+    second: xmas snowball sprite(1)_378
+  - first:
+      213: -9203742873602454371
+    second: xmas snowball sprite(1)_379
+  - first:
+      213: 7689885829868258420
+    second: xmas snowball sprite(1)_380
+  - first:
+      213: -7616658932268826945
+    second: xmas snowball sprite(1)_381
+  - first:
+      213: -3499155479590504147
+    second: xmas snowball sprite(1)_382
+  - first:
+      213: 1291826787804175179
+    second: xmas snowball sprite(1)_383
+  - first:
+      213: 4813557384806987606
+    second: xmas snowball sprite(1)_384
+  - first:
+      213: 2758427076027645997
+    second: xmas snowball sprite(1)_385
+  - first:
+      213: 402486529357505592
+    second: xmas snowball sprite(1)_386
+  - first:
+      213: 5790620089293111229
+    second: xmas snowball sprite(1)_387
+  - first:
+      213: -5230874940223125474
+    second: xmas snowball sprite(1)_388
+  - first:
+      213: -5799169419863026985
+    second: xmas snowball sprite(1)_389
+  - first:
+      213: -4139733690844793358
+    second: xmas snowball sprite(1)_390
+  - first:
+      213: -77557643972813457
+    second: xmas snowball sprite(1)_391
+  - first:
+      213: 2301448828379585953
+    second: xmas snowball sprite(1)_392
+  - first:
+      213: -8147570602205916301
+    second: xmas snowball sprite(1)_393
+  - first:
+      213: 438060299234278744
+    second: xmas snowball sprite(1)_394
+  - first:
+      213: 1860081625190414349
+    second: xmas snowball sprite(1)_395
+  - first:
+      213: 1992103749225173972
+    second: xmas snowball sprite(1)_396
+  - first:
+      213: 654243370868170753
+    second: xmas snowball sprite(1)_397
+  - first:
+      213: 3551279657526422761
+    second: xmas snowball sprite(1)_398
+  - first:
+      213: -4183289537385206728
+    second: xmas snowball sprite(1)_399
+  - first:
+      213: -1416600907413070291
+    second: xmas snowball sprite(1)_400
+  - first:
+      213: 4431802499935619654
+    second: xmas snowball sprite(1)_401
+  - first:
+      213: -556339785389746267
+    second: xmas snowball sprite(1)_402
+  - first:
+      213: 8295996226098954417
+    second: xmas snowball sprite(1)_403
+  - first:
+      213: -6669767354679297359
+    second: xmas snowball sprite(1)_404
+  - first:
+      213: -8625712553615406294
+    second: xmas snowball sprite(1)_405
+  - first:
+      213: -256562306571371743
+    second: xmas snowball sprite(1)_406
+  - first:
+      213: 6018448341152393593
+    second: xmas snowball sprite(1)_407
+  - first:
+      213: -353145658243969630
+    second: xmas snowball sprite(1)_408
+  - first:
+      213: 7471250000320111832
+    second: xmas snowball sprite(1)_409
+  - first:
+      213: 4349793924183532790
+    second: xmas snowball sprite(1)_410
+  - first:
+      213: -5078264949950974570
+    second: xmas snowball sprite(1)_411
+  - first:
+      213: 8536027013012414002
+    second: xmas snowball sprite(1)_412
+  - first:
+      213: -2281615208094936472
+    second: xmas snowball sprite(1)_413
+  - first:
+      213: -2528913240583719901
+    second: xmas snowball sprite(1)_414
+  - first:
+      213: 1207614179151789609
+    second: xmas snowball sprite(1)_415
+  - first:
+      213: 8797729572327449974
+    second: xmas snowball sprite(1)_416
+  - first:
+      213: -2007282003383476372
+    second: xmas snowball sprite(1)_417
+  - first:
+      213: 4526287690863901813
+    second: xmas snowball sprite(1)_418
+  - first:
+      213: 8565771253070007101
+    second: xmas snowball sprite(1)_419
+  - first:
+      213: 3217015694339450508
+    second: xmas snowball sprite(1)_420
+  - first:
+      213: -6149380658871599480
+    second: xmas snowball sprite(1)_421
+  - first:
+      213: -8472052636661988239
+    second: xmas snowball sprite(1)_422
+  - first:
+      213: 7404813604702391228
+    second: xmas snowball sprite(1)_423
+  - first:
+      213: -1254360040051200523
+    second: xmas snowball sprite(1)_424
+  - first:
+      213: -4625545249573412552
+    second: xmas snowball sprite(1)_425
+  - first:
+      213: -4620718878670929817
+    second: xmas snowball sprite(1)_426
+  - first:
+      213: 8073839827478147863
+    second: xmas snowball sprite(1)_427
+  - first:
+      213: -3736190402701602327
+    second: xmas snowball sprite(1)_428
+  - first:
+      213: 7962030085204008976
+    second: xmas snowball sprite(1)_429
+  - first:
+      213: -3452878998203720263
+    second: xmas snowball sprite(1)_430
+  - first:
+      213: -1022624077141515437
+    second: xmas snowball sprite(1)_431
+  - first:
+      213: 1490891076471021681
+    second: xmas snowball sprite(1)_432
+  - first:
+      213: 2389698204168714888
+    second: xmas snowball sprite(1)_433
+  - first:
+      213: -4562144265640419853
+    second: xmas snowball sprite(1)_434
+  - first:
+      213: -8874382707398205319
+    second: xmas snowball sprite(1)_435
+  - first:
+      213: 2078921180717554253
+    second: xmas snowball sprite(1)_436
+  - first:
+      213: -3768080080558346354
+    second: xmas snowball sprite(1)_437
+  - first:
+      213: -6630913942681892911
+    second: xmas snowball sprite(1)_438
+  - first:
+      213: 364570932378243325
+    second: xmas snowball sprite(1)_439
+  - first:
+      213: 8302949559887945312
+    second: xmas snowball sprite(1)_440
+  - first:
+      213: 2436288037211558779
+    second: xmas snowball sprite(1)_441
+  - first:
+      213: -8431919857176843146
+    second: xmas snowball sprite(1)_442
+  - first:
+      213: 2433929119177997097
+    second: xmas snowball sprite(1)_443
+  - first:
+      213: 3338940526855741850
+    second: xmas snowball sprite(1)_444
+  - first:
+      213: 9052054892503853723
+    second: xmas snowball sprite(1)_445
+  - first:
+      213: -9097864501175836285
+    second: xmas snowball sprite(1)_446
+  - first:
+      213: -6342175654593030748
+    second: xmas snowball sprite(1)_447
+  - first:
+      213: -6584752150955839652
+    second: xmas snowball sprite(1)_448
+  - first:
+      213: 2955575816138736022
+    second: xmas snowball sprite(1)_449
+  - first:
+      213: 35165529024420697
+    second: xmas snowball sprite(1)_450
+  - first:
+      213: 4335787221687047463
+    second: xmas snowball sprite(1)_451
+  - first:
+      213: 2821339258124860304
+    second: xmas snowball sprite(1)_452
+  - first:
+      213: 4438385644489766617
+    second: xmas snowball sprite(1)_453
+  - first:
+      213: 3998452618985329378
+    second: xmas snowball sprite(1)_454
+  - first:
+      213: -7072326875039337848
+    second: xmas snowball sprite(1)_455
+  - first:
+      213: 7172935440570489326
+    second: xmas snowball sprite(1)_456
+  - first:
+      213: 8605186961523103582
+    second: xmas snowball sprite(1)_457
+  - first:
+      213: 2008862752750094397
+    second: xmas snowball sprite(1)_458
+  - first:
+      213: -196150271398271660
+    second: xmas snowball sprite(1)_459
+  - first:
+      213: -4500835093035511734
+    second: xmas snowball sprite(1)_460
+  - first:
+      213: 4084752296323645887
+    second: xmas snowball sprite(1)_461
+  - first:
+      213: -6391463532317761394
+    second: xmas snowball sprite(1)_462
+  - first:
+      213: -308362095864755990
+    second: xmas snowball sprite(1)_463
+  - first:
+      213: 3401038776068216510
+    second: xmas snowball sprite(1)_464
+  - first:
+      213: -3576928322934326690
+    second: xmas snowball sprite(1)_465
+  - first:
+      213: -3814350369141189398
+    second: xmas snowball sprite(1)_466
+  - first:
+      213: -8659833618428326168
+    second: xmas snowball sprite(1)_467
+  - first:
+      213: 703381001209969397
+    second: xmas snowball sprite(1)_468
+  - first:
+      213: -4496040614297879370
+    second: xmas snowball sprite(1)_469
+  - first:
+      213: 528879458143784711
+    second: xmas snowball sprite(1)_470
+  - first:
+      213: 6723996892922287485
+    second: xmas snowball sprite(1)_471
+  - first:
+      213: -1511402426818252571
+    second: xmas snowball sprite(1)_472
+  - first:
+      213: 376587397336246412
+    second: xmas snowball sprite(1)_473
+  - first:
+      213: -5482027457015847876
+    second: xmas snowball sprite(1)_474
+  - first:
+      213: 5562552043958332586
+    second: xmas snowball sprite(1)_475
+  - first:
+      213: -8114310913543580916
+    second: xmas snowball sprite(1)_476
+  - first:
+      213: -6013530512754040938
+    second: xmas snowball sprite(1)_477
+  - first:
+      213: -5115366486951041296
+    second: xmas snowball sprite(1)_478
+  - first:
+      213: 891997369315895584
+    second: xmas snowball sprite(1)_479
+  - first:
+      213: -458293765583962382
+    second: xmas snowball sprite(1)_480
+  - first:
+      213: 3330412969459740489
+    second: xmas snowball sprite(1)_481
+  - first:
+      213: 4745456688127933901
+    second: xmas snowball sprite(1)_482
+  - first:
+      213: 4893848908773533764
+    second: xmas snowball sprite(1)_483
+  - first:
+      213: -5362348273645521495
+    second: xmas snowball sprite(1)_484
+  - first:
+      213: -8723460987273226042
+    second: xmas snowball sprite(1)_485
+  - first:
+      213: 3701547733740540691
+    second: xmas snowball sprite(1)_486
+  - first:
+      213: 9083470571067466277
+    second: xmas snowball sprite(1)_487
+  - first:
+      213: -8589795829751057430
+    second: xmas snowball sprite(1)_488
+  - first:
+      213: 5715584657654926385
+    second: xmas snowball sprite(1)_489
+  - first:
+      213: 4303827975694672761
+    second: xmas snowball sprite(1)_490
+  - first:
+      213: 722737473780878286
+    second: xmas snowball sprite(1)_491
+  - first:
+      213: -4917113076304990755
+    second: xmas snowball sprite(1)_492
+  - first:
+      213: 8032995413867029623
+    second: xmas snowball sprite(1)_493
+  - first:
+      213: -8141302737796278828
+    second: xmas snowball sprite(1)_494
+  - first:
+      213: 4703589580344026455
+    second: xmas snowball sprite(1)_495
+  - first:
+      213: -3217345757677566283
+    second: xmas snowball sprite(1)_496
+  - first:
+      213: 2272957557308051369
+    second: xmas snowball sprite(1)_497
+  - first:
+      213: -8087277963463742679
+    second: xmas snowball sprite(1)_498
+  - first:
+      213: 158412551050330630
+    second: xmas snowball sprite(1)_499
+  - first:
+      213: -4569242404481615576
+    second: xmas snowball sprite(1)_500
+  - first:
+      213: 2946057081623413439
+    second: xmas snowball sprite(1)_501
+  - first:
+      213: -3840679466320506179
+    second: xmas snowball sprite(1)_502
+  - first:
+      213: -343143968023061181
+    second: xmas snowball sprite(1)_503
+  - first:
+      213: 6245048436058155160
+    second: xmas snowball sprite(1)_504
+  - first:
+      213: -5939149944707053071
+    second: xmas snowball sprite(1)_505
+  - first:
+      213: 7973332724290185086
+    second: xmas snowball sprite(1)_506
+  - first:
+      213: -3495376869117575761
+    second: xmas snowball sprite(1)_507
+  - first:
+      213: 769626510611358950
+    second: xmas snowball sprite(1)_508
+  - first:
+      213: -4827355320735148840
+    second: xmas snowball sprite(1)_509
+  - first:
+      213: 8264722723868735097
+    second: xmas snowball sprite(1)_510
+  - first:
+      213: -2903527899870777959
+    second: xmas snowball sprite(1)_511
+  - first:
+      213: 2189384367044341939
+    second: xmas snowball sprite(1)_512
+  - first:
+      213: 3311245180934885986
+    second: xmas snowball sprite(1)_513
+  - first:
+      213: 1878050413174794825
+    second: xmas snowball sprite(1)_514
+  - first:
+      213: 5144108012195729955
+    second: xmas snowball sprite(1)_515
+  - first:
+      213: 7770862069288474153
+    second: xmas snowball sprite(1)_516
+  - first:
+      213: -1794119656523924531
+    second: xmas snowball sprite(1)_517
+  - first:
+      213: 9109546124679587899
+    second: xmas snowball sprite(1)_518
+  - first:
+      213: 3146964915585669273
+    second: xmas snowball sprite(1)_519
+  - first:
+      213: -2740310621452934626
+    second: xmas snowball sprite(1)_520
+  - first:
+      213: 7415184296588629517
+    second: xmas snowball sprite(1)_521
+  - first:
+      213: -622576775090001600
+    second: xmas snowball sprite(1)_522
+  - first:
+      213: 2594647569982227887
+    second: xmas snowball sprite(1)_523
+  - first:
+      213: -5511975712155170411
+    second: xmas snowball sprite(1)_524
+  - first:
+      213: 723148383010064364
+    second: xmas snowball sprite(1)_525
+  - first:
+      213: -8321345129383108597
+    second: xmas snowball sprite(1)_526
+  - first:
+      213: 5181892956423306039
+    second: xmas snowball sprite(1)_527
+  - first:
+      213: 6271855715957854242
+    second: xmas snowball sprite(1)_528
+  - first:
+      213: 5632875766834402683
+    second: xmas snowball sprite(1)_529
+  - first:
+      213: -2319882706292672736
+    second: xmas snowball sprite(1)_530
+  - first:
+      213: -4276027487959299129
+    second: xmas snowball sprite(1)_531
+  - first:
+      213: -8875847437007870511
+    second: xmas snowball sprite(1)_532
+  - first:
+      213: -5764120878428679491
+    second: xmas snowball sprite(1)_533
+  - first:
+      213: 6974862674649541068
+    second: xmas snowball sprite(1)_534
+  - first:
+      213: -5272665301569669377
+    second: xmas snowball sprite(1)_535
+  - first:
+      213: 3253080838984581210
+    second: xmas snowball sprite(1)_536
+  - first:
+      213: -3940194291163441883
+    second: xmas snowball sprite(1)_537
+  - first:
+      213: 5736933690683308163
+    second: xmas snowball sprite(1)_538
+  - first:
+      213: -1345708887942314590
+    second: xmas snowball sprite(1)_539
+  - first:
+      213: -4121012784467016708
+    second: xmas snowball sprite(1)_540
+  - first:
+      213: -1340894272985706410
+    second: xmas snowball sprite(1)_541
+  - first:
+      213: 4369061347612333095
+    second: xmas snowball sprite(1)_542
+  - first:
+      213: -6655967116471235854
+    second: xmas snowball sprite(1)_543
+  - first:
+      213: 5311126348337233761
+    second: xmas snowball sprite(1)_544
+  - first:
+      213: -1986204725509304067
+    second: xmas snowball sprite(1)_545
+  - first:
+      213: 2288776420906382548
+    second: xmas snowball sprite(1)_546
+  - first:
+      213: 1853810738034354940
+    second: xmas snowball sprite(1)_547
+  - first:
+      213: 4826022046683821523
+    second: xmas snowball sprite(1)_548
+  - first:
+      213: -9179404421977460154
+    second: xmas snowball sprite(1)_549
+  - first:
+      213: -819995548501465371
+    second: xmas snowball sprite(1)_550
+  - first:
+      213: -5353529014405875479
+    second: xmas snowball sprite(1)_551
+  - first:
+      213: 1118839262830066188
+    second: xmas snowball sprite(1)_552
+  - first:
+      213: 4113348634382215973
+    second: xmas snowball sprite(1)_553
+  - first:
+      213: 319757328995844513
+    second: xmas snowball sprite(1)_554
+  - first:
+      213: 460503392455462581
+    second: xmas snowball sprite(1)_555
+  - first:
+      213: -596465794917142943
+    second: xmas snowball sprite(1)_556
+  - first:
+      213: -2814082761434155407
+    second: xmas snowball sprite(1)_557
+  - first:
+      213: 6815416209219299581
+    second: xmas snowball sprite(1)_558
+  - first:
+      213: -5433123585947028898
+    second: xmas snowball sprite(1)_559
+  - first:
+      213: -4379341891566365177
+    second: xmas snowball sprite(1)_560
+  - first:
+      213: 1991399588130921011
+    second: xmas snowball sprite(1)_561
+  - first:
+      213: 7358528786059423813
+    second: xmas snowball sprite(1)_562
+  - first:
+      213: 803475780181442420
+    second: xmas snowball sprite(1)_563
+  - first:
+      213: 6152794587415248356
+    second: xmas snowball sprite(1)_564
+  - first:
+      213: 3198158040174642833
+    second: xmas snowball sprite(1)_565
+  - first:
+      213: 7095097802231463189
+    second: xmas snowball sprite(1)_566
+  - first:
+      213: 1932181205150170924
+    second: xmas snowball sprite(1)_567
+  - first:
+      213: 707541594505042236
+    second: xmas snowball sprite(1)_568
+  - first:
+      213: -9208940755485930037
+    second: xmas snowball sprite(1)_569
+  - first:
+      213: 3456558272422931085
+    second: xmas snowball sprite(1)_570
+  - first:
+      213: 5121882255035639334
+    second: xmas snowball sprite(1)_571
+  - first:
+      213: -1941621657205810747
+    second: xmas snowball sprite(1)_572
+  - first:
+      213: -8557525140539625276
+    second: xmas snowball sprite(1)_573
+  - first:
+      213: 7778425112808862761
+    second: xmas snowball sprite(1)_574
+  - first:
+      213: -9020450948002248823
+    second: xmas snowball sprite(1)_575
+  - first:
+      213: -8073327136544401340
+    second: xmas snowball sprite(1)_576
+  - first:
+      213: 6945303617025705767
+    second: xmas snowball sprite(1)_577
+  - first:
+      213: 6422447825832755647
+    second: xmas snowball sprite(1)_578
+  - first:
+      213: 132120794066654762
+    second: xmas snowball sprite(1)_579
+  - first:
+      213: -1063196198487694268
+    second: xmas snowball sprite(1)_580
+  - first:
+      213: -4695613866179328966
+    second: xmas snowball sprite(1)_581
+  - first:
+      213: 8058169433061073696
+    second: xmas snowball sprite(1)_582
+  - first:
+      213: -641507273700690462
+    second: xmas snowball sprite(1)_583
+  - first:
+      213: -1630643669018092314
+    second: xmas snowball sprite(1)_584
+  - first:
+      213: 5431721430510763061
+    second: xmas snowball sprite(1)_585
+  - first:
+      213: -8100059579958901157
+    second: xmas snowball sprite(1)_586
+  - first:
+      213: -4146149718696078925
+    second: xmas snowball sprite(1)_587
+  - first:
+      213: -7162783873775590279
+    second: xmas snowball sprite(1)_588
+  - first:
+      213: -5282815337548752186
+    second: xmas snowball sprite(1)_589
+  - first:
+      213: 2061734578301913598
+    second: xmas snowball sprite(1)_590
+  - first:
+      213: -846141942316745280
+    second: xmas snowball sprite(1)_591
+  - first:
+      213: 1599961199984855478
+    second: xmas snowball sprite(1)_592
+  - first:
+      213: -533328509251763724
+    second: xmas snowball sprite(1)_593
+  - first:
+      213: -5454588294328424133
+    second: xmas snowball sprite(1)_594
+  - first:
+      213: -4062467900870834986
+    second: xmas snowball sprite(1)_595
+  - first:
+      213: -6766690203234196963
+    second: xmas snowball sprite(1)_596
+  - first:
+      213: -3097322544470002654
+    second: xmas snowball sprite(1)_597
+  - first:
+      213: 6498361889527889580
+    second: xmas snowball sprite(1)_598
+  - first:
+      213: 5300105968526509368
+    second: xmas snowball sprite(1)_599
+  - first:
+      213: -6647384813243871977
+    second: xmas snowball sprite(1)_600
+  - first:
+      213: 2924406436455254833
+    second: xmas snowball sprite(1)_601
+  - first:
+      213: -7486337447761224949
+    second: xmas snowball sprite(1)_602
+  - first:
+      213: -3918856968958801362
+    second: xmas snowball sprite(1)_603
+  - first:
+      213: 8327326961788245975
+    second: xmas snowball sprite(1)_604
+  - first:
+      213: 5801233720537456247
+    second: xmas snowball sprite(1)_605
+  - first:
+      213: -6930162955464589681
+    second: xmas snowball sprite(1)_606
+  - first:
+      213: -6122712131521058891
+    second: xmas snowball sprite(1)_607
+  - first:
+      213: -4426013552551577744
+    second: xmas snowball sprite(1)_608
+  - first:
+      213: 1136537712394571338
+    second: xmas snowball sprite(1)_609
+  - first:
+      213: -7114532509393808512
+    second: xmas snowball sprite(1)_610
+  - first:
+      213: 4776467618159877925
+    second: xmas snowball sprite(1)_611
+  - first:
+      213: -2993039132523911304
+    second: xmas snowball sprite(1)_612
+  - first:
+      213: 956384317157546233
+    second: xmas snowball sprite(1)_613
+  - first:
+      213: 1069637724480910949
+    second: xmas snowball sprite(1)_614
+  - first:
+      213: 8997239479649399550
+    second: xmas snowball sprite(1)_615
+  - first:
+      213: 3914863298140963286
+    second: xmas snowball sprite(1)_616
+  - first:
+      213: 5001700286390976963
+    second: xmas snowball sprite(1)_617
+  - first:
+      213: 3809318428611500914
+    second: xmas snowball sprite(1)_618
+  - first:
+      213: 4820098724343161986
+    second: xmas snowball sprite(1)_619
+  - first:
+      213: -8226192018281328273
+    second: xmas snowball sprite(1)_620
+  - first:
+      213: -3216639070509749431
+    second: xmas snowball sprite(1)_621
+  - first:
+      213: -4785959856601752236
+    second: xmas snowball sprite(1)_622
+  - first:
+      213: -5804154847656976791
+    second: xmas snowball sprite(1)_623
+  - first:
+      213: 5295878942266687166
+    second: xmas snowball sprite(1)_624
+  - first:
+      213: 5237557490603130824
+    second: xmas snowball sprite(1)_625
+  - first:
+      213: 7850019758449882446
+    second: xmas snowball sprite(1)_626
+  - first:
+      213: -6022270323953476923
+    second: xmas snowball sprite(1)_627
+  - first:
+      213: 8475581443540092988
+    second: xmas snowball sprite(1)_628
+  - first:
+      213: 7703822350789244417
+    second: xmas snowball sprite(1)_629
+  - first:
+      213: 2871076775654785297
+    second: xmas snowball sprite(1)_630
+  - first:
+      213: 1412393805299570416
+    second: xmas snowball sprite(1)_631
+  - first:
+      213: -4650426581632668795
+    second: xmas snowball sprite(1)_632
+  - first:
+      213: -8370534649459610788
+    second: xmas snowball sprite(1)_633
+  - first:
+      213: 6010416856060114615
+    second: xmas snowball sprite(1)_634
+  - first:
+      213: -6904197512414997171
+    second: xmas snowball sprite(1)_635
+  - first:
+      213: 6684705134390040341
+    second: xmas snowball sprite(1)_636
+  - first:
+      213: 6195906258181201997
+    second: xmas snowball sprite(1)_637
+  - first:
+      213: -519315503695987096
+    second: xmas snowball sprite(1)_638
+  - first:
+      213: 5558215855986802031
+    second: xmas snowball sprite(1)_639
+  - first:
+      213: 5324253593464879123
+    second: xmas snowball sprite(1)_640
+  - first:
+      213: -791824845825316079
+    second: xmas snowball sprite(1)_641
+  - first:
+      213: 5539084422764792126
+    second: xmas snowball sprite(1)_642
+  - first:
+      213: -2409057951362000882
+    second: xmas snowball sprite(1)_643
+  - first:
+      213: -8442085038586595129
+    second: xmas snowball sprite(1)_644
+  - first:
+      213: 841450464578943276
+    second: xmas snowball sprite(1)_645
+  - first:
+      213: -8798533510382310410
+    second: xmas snowball sprite(1)_646
+  - first:
+      213: -3065205753008073290
+    second: xmas snowball sprite(1)_647
+  - first:
+      213: 6885925434497366993
+    second: xmas snowball sprite(1)_648
+  - first:
+      213: 6489196304281696467
+    second: xmas snowball sprite(1)_649
+  - first:
+      213: 3190771844816518873
+    second: xmas snowball sprite(1)_650
+  - first:
+      213: 8225592896071986384
+    second: xmas snowball sprite(1)_651
+  - first:
+      213: -6809328797671105678
+    second: xmas snowball sprite(1)_652
+  - first:
+      213: -557495395207075150
+    second: xmas snowball sprite(1)_653
+  - first:
+      213: -7134848979273293483
+    second: xmas snowball sprite(1)_654
+  - first:
+      213: 5876159094101230070
+    second: xmas snowball sprite(1)_655
+  - first:
+      213: 8974717515805255538
+    second: xmas snowball sprite(1)_656
+  - first:
+      213: 3078225478449133542
+    second: xmas snowball sprite(1)_657
+  - first:
+      213: -661878526084189931
+    second: xmas snowball sprite(1)_658
+  - first:
+      213: 2964033571648595457
+    second: xmas snowball sprite(1)_659
+  - first:
+      213: 5617526891536444675
+    second: xmas snowball sprite(1)_660
+  - first:
+      213: -5892671404708198921
+    second: xmas snowball sprite(1)_661
+  - first:
+      213: 5386806014990425246
+    second: xmas snowball sprite(1)_662
+  - first:
+      213: -5544927169159647495
+    second: xmas snowball sprite(1)_663
+  - first:
+      213: 9116933563826589034
+    second: xmas snowball sprite(1)_664
+  - first:
+      213: -9036787196622824053
+    second: xmas snowball sprite(1)_665
+  - first:
+      213: -5365545236918466822
+    second: xmas snowball sprite(1)_666
+  - first:
+      213: -5069145080465587952
+    second: xmas snowball sprite(1)_667
+  - first:
+      213: 8300684913636652954
+    second: xmas snowball sprite(1)_668
+  - first:
+      213: -9090924825147268173
+    second: xmas snowball sprite(1)_669
+  - first:
+      213: -3028945047002506402
+    second: xmas snowball sprite(1)_670
+  - first:
+      213: 7268602906903687999
+    second: xmas snowball sprite(1)_671
+  - first:
+      213: 1374067746546190174
+    second: xmas snowball sprite(1)_672
+  - first:
+      213: -7261497166660536934
+    second: xmas snowball sprite(1)_673
+  - first:
+      213: 1091169022561090790
+    second: xmas snowball sprite(1)_674
+  - first:
+      213: 7567096252294685772
+    second: xmas snowball sprite(1)_675
+  - first:
+      213: -8565483571065452017
+    second: xmas snowball sprite(1)_676
+  - first:
+      213: 186143722317849243
+    second: xmas snowball sprite(1)_677
+  - first:
+      213: -2187716961122762790
+    second: xmas snowball sprite(1)_678
+  - first:
+      213: 6690693226101818690
+    second: xmas snowball sprite(1)_679
+  - first:
+      213: -2392029745717945984
+    second: xmas snowball sprite(1)_680
+  - first:
+      213: 9147028694072708047
+    second: xmas snowball sprite(1)_681
+  - first:
+      213: 5655560081741358304
+    second: xmas snowball sprite(1)_682
+  - first:
+      213: -6157210013279744350
+    second: xmas snowball sprite(1)_683
+  - first:
+      213: 8490139765563282103
+    second: xmas snowball sprite(1)_684
+  - first:
+      213: 6494072333863277569
+    second: xmas snowball sprite(1)_685
+  - first:
+      213: -2775702728335248467
+    second: xmas snowball sprite(1)_686
+  - first:
+      213: 7870825840619045721
+    second: xmas snowball sprite(1)_687
+  - first:
+      213: -988678345441179611
+    second: xmas snowball sprite(1)_688
+  - first:
+      213: 3455206134028764412
+    second: xmas snowball sprite(1)_689
+  - first:
+      213: 1463907380121908909
+    second: xmas snowball sprite(1)_690
+  - first:
+      213: 6222590259267638801
+    second: xmas snowball sprite(1)_691
+  - first:
+      213: -7767776998313878711
+    second: xmas snowball sprite(1)_692
+  - first:
+      213: 6862427785902914325
+    second: xmas snowball sprite(1)_693
+  - first:
+      213: -7329261663686333593
+    second: xmas snowball sprite(1)_694
+  - first:
+      213: -8323237558821661889
+    second: xmas snowball sprite(1)_695
+  - first:
+      213: -6856006034848722026
+    second: xmas snowball sprite(1)_696
+  - first:
+      213: -459922645687824840
+    second: xmas snowball sprite(1)_697
+  - first:
+      213: 4164395943547824917
+    second: xmas snowball sprite(1)_698
+  - first:
+      213: -8208395711589710804
+    second: xmas snowball sprite(1)_699
+  - first:
+      213: -7616431572525789027
+    second: xmas snowball sprite(1)_700
+  - first:
+      213: 6693289964992809900
+    second: xmas snowball sprite(1)_701
+  - first:
+      213: 2909839274650268086
+    second: xmas snowball sprite(1)_702
+  - first:
+      213: -8273526709448171876
+    second: xmas snowball sprite(1)_703
+  - first:
+      213: -524460943421481631
+    second: xmas snowball sprite(1)_704
+  - first:
+      213: 5943073055469075937
+    second: xmas snowball sprite(1)_705
+  - first:
+      213: -5526988147805009173
+    second: xmas snowball sprite(1)_706
+  - first:
+      213: 456927669985646774
+    second: xmas snowball sprite(1)_707
+  - first:
+      213: 1584995779200225112
+    second: xmas snowball sprite(1)_708
+  - first:
+      213: 8298629745435456969
+    second: xmas snowball sprite(1)_709
+  - first:
+      213: -866024972429358251
+    second: xmas snowball sprite(1)_710
+  - first:
+      213: -4445568743886912051
+    second: xmas snowball sprite(1)_711
+  - first:
+      213: -3725392542613301937
+    second: xmas snowball sprite(1)_712
+  - first:
+      213: 5792590247791679395
+    second: xmas snowball sprite(1)_713
+  - first:
+      213: -656729571942839010
+    second: xmas snowball sprite(1)_714
+  - first:
+      213: -3853736584333849090
+    second: xmas snowball sprite(1)_715
+  - first:
+      213: 1924816544640584591
+    second: xmas snowball sprite(1)_716
+  - first:
+      213: -6436772687781045678
+    second: xmas snowball sprite(1)_717
+  - first:
+      213: 6269166106156109088
+    second: xmas snowball sprite(1)_718
+  - first:
+      213: -361669568311757525
+    second: xmas snowball sprite(1)_719
+  - first:
+      213: 8517908391583101705
+    second: xmas snowball sprite(1)_720
+  - first:
+      213: -3861372611526964268
+    second: xmas snowball sprite(1)_721
+  - first:
+      213: -5649496232534792857
+    second: xmas snowball sprite(1)_722
+  - first:
+      213: 8775648543784291819
+    second: xmas snowball sprite(1)_723
+  - first:
+      213: -467753360628581507
+    second: xmas snowball sprite(1)_724
+  - first:
+      213: -4655849003145969156
+    second: xmas snowball sprite(1)_725
+  - first:
+      213: -4367362114405441845
+    second: xmas snowball sprite(1)_726
+  - first:
+      213: -8534577691104832601
+    second: xmas snowball sprite(1)_727
+  - first:
+      213: -7242058249873067102
+    second: xmas snowball sprite(1)_728
+  - first:
+      213: 37810898539697699
+    second: xmas snowball sprite(1)_729
+  - first:
+      213: -3163078692532867376
+    second: xmas snowball sprite(1)_730
+  - first:
+      213: -1863244498948487846
+    second: xmas snowball sprite(1)_731
+  - first:
+      213: 6773964679222536890
+    second: xmas snowball sprite(1)_732
+  - first:
+      213: 3914849240514054114
+    second: xmas snowball sprite(1)_733
+  - first:
+      213: -5555949558507102386
+    second: xmas snowball sprite(1)_734
+  - first:
+      213: -8355640333519938047
+    second: xmas snowball sprite(1)_735
+  - first:
+      213: -4505829955591938452
+    second: xmas snowball sprite(1)_736
+  - first:
+      213: -4226968144258141987
+    second: xmas snowball sprite(1)_737
+  - first:
+      213: 8215153852109019838
+    second: xmas snowball sprite(1)_738
+  - first:
+      213: 5782255535695840489
+    second: xmas snowball sprite(1)_739
+  - first:
+      213: 9026449533425944564
+    second: xmas snowball sprite(1)_740
+  - first:
+      213: 8746801807427360103
+    second: xmas snowball sprite(1)_741
+  - first:
+      213: 8582150766110224454
+    second: xmas snowball sprite(1)_742
+  - first:
+      213: -8716208251576462564
+    second: xmas snowball sprite(1)_743
+  - first:
+      213: -8227025865249995033
+    second: xmas snowball sprite(1)_744
+  - first:
+      213: -4342145346785925235
+    second: xmas snowball sprite(1)_745
+  - first:
+      213: 980339764008862060
+    second: xmas snowball sprite(1)_746
+  - first:
+      213: -6147811446780877316
+    second: xmas snowball sprite(1)_747
+  - first:
+      213: -5952820549734426788
+    second: xmas snowball sprite(1)_748
+  - first:
+      213: 4951595315960520891
+    second: xmas snowball sprite(1)_749
+  - first:
+      213: 1036554760911573089
+    second: xmas snowball sprite(1)_750
+  - first:
+      213: 5818499597038233038
+    second: xmas snowball sprite(1)_751
+  - first:
+      213: -7452121800886576225
+    second: xmas snowball sprite(1)_752
+  - first:
+      213: -1257621890699832745
+    second: xmas snowball sprite(1)_753
+  - first:
+      213: -2505618910633142381
+    second: xmas snowball sprite(1)_754
+  - first:
+      213: 7389267250754338547
+    second: xmas snowball sprite(1)_755
+  - first:
+      213: 5423680761727133059
+    second: xmas snowball sprite(1)_756
+  - first:
+      213: -1589949366427523696
+    second: xmas snowball sprite(1)_757
+  - first:
+      213: 8836465352522538978
+    second: xmas snowball sprite(1)_758
+  - first:
+      213: -8516504045095424764
+    second: xmas snowball sprite(1)_759
+  - first:
+      213: 5348580548318369342
+    second: xmas snowball sprite(1)_760
+  - first:
+      213: -7347181337168192020
+    second: xmas snowball sprite(1)_761
+  - first:
+      213: 416016548106266762
+    second: xmas snowball sprite(1)_762
+  - first:
+      213: 7450999242267238717
+    second: xmas snowball sprite(1)_763
+  - first:
+      213: 1586613592512285547
+    second: xmas snowball sprite(1)_764
+  - first:
+      213: 2352829079990956896
+    second: xmas snowball sprite(1)_765
+  - first:
+      213: 6599693665256674269
+    second: xmas snowball sprite(1)_766
+  - first:
+      213: 3668146781599851798
+    second: xmas snowball sprite(1)_767
+  - first:
+      213: 7034403533375467973
+    second: xmas snowball sprite(1)_768
+  - first:
+      213: 3322525330042348460
+    second: xmas snowball sprite(1)_769
+  - first:
+      213: 8316887921031679311
+    second: xmas snowball sprite(1)_770
+  - first:
+      213: 4371510605452411877
+    second: xmas snowball sprite(1)_771
+  - first:
+      213: 6484186308471151497
+    second: xmas snowball sprite(1)_772
+  - first:
+      213: -3893479601390580808
+    second: xmas snowball sprite(1)_773
+  - first:
+      213: -4883404154317689063
+    second: xmas snowball sprite(1)_774
+  - first:
+      213: -8917927625331914683
+    second: xmas snowball sprite(1)_775
+  - first:
+      213: 7393824582400301375
+    second: xmas snowball sprite(1)_776
+  - first:
+      213: 8627136106622171079
+    second: xmas snowball sprite(1)_777
+  - first:
+      213: 3237354958939673878
+    second: xmas snowball sprite(1)_778
+  - first:
+      213: -7883044525241615625
+    second: xmas snowball sprite(1)_779
+  - first:
+      213: 3220129341228553606
+    second: xmas snowball sprite(1)_780
+  - first:
+      213: -4342077511906965698
+    second: xmas snowball sprite(1)_781
+  - first:
+      213: -3741522825886234257
+    second: xmas snowball sprite(1)_782
+  - first:
+      213: 6373798407645853868
+    second: xmas snowball sprite(1)_783
+  - first:
+      213: 6437417647878685890
+    second: xmas snowball sprite(1)_784
+  - first:
+      213: -7512324765007598725
+    second: xmas snowball sprite(1)_785
+  - first:
+      213: -3490709492001564471
+    second: xmas snowball sprite(1)_786
+  - first:
+      213: -3962778420887143574
+    second: xmas snowball sprite(1)_787
+  - first:
+      213: -5191513190884904675
+    second: xmas snowball sprite(1)_788
+  - first:
+      213: -1094398955938240306
+    second: xmas snowball sprite(1)_789
+  - first:
+      213: -1867194229981985268
+    second: xmas snowball sprite(1)_790
+  - first:
+      213: 774924926996541937
+    second: xmas snowball sprite(1)_791
+  - first:
+      213: 5399395531552783459
+    second: xmas snowball sprite(1)_792
+  - first:
+      213: 5148724770308897348
+    second: xmas snowball sprite(1)_793
+  - first:
+      213: -7221328496152623484
+    second: xmas snowball sprite(1)_794
+  - first:
+      213: -3765631725486736873
+    second: xmas snowball sprite(1)_795
+  - first:
+      213: 682496973406434338
+    second: xmas snowball sprite(1)_796
+  - first:
+      213: 8359593929058873705
+    second: xmas snowball sprite(1)_797
+  - first:
+      213: 5048026701756245807
+    second: xmas snowball sprite(1)_798
+  - first:
+      213: -2956354755937514620
+    second: xmas snowball sprite(1)_799
+  - first:
+      213: 6015951734086302628
+    second: xmas snowball sprite(1)_800
+  - first:
+      213: 921539022622413015
+    second: xmas snowball sprite(1)_801
+  - first:
+      213: -6999654980560190873
+    second: xmas snowball sprite(1)_802
+  - first:
+      213: -1363072267734527769
+    second: xmas snowball sprite(1)_803
+  - first:
+      213: 8498784649466262747
+    second: xmas snowball sprite(1)_804
+  - first:
+      213: 2320261872837317368
+    second: xmas snowball sprite(1)_805
+  - first:
+      213: 8733687335883867664
+    second: xmas snowball sprite(1)_806
+  - first:
+      213: -1217543169228195510
+    second: xmas snowball sprite(1)_807
+  - first:
+      213: -4961541545147916127
+    second: xmas snowball sprite(1)_808
+  - first:
+      213: 4822533687181226638
+    second: xmas snowball sprite(1)_809
+  - first:
+      213: 1407042245419476334
+    second: xmas snowball sprite(1)_810
+  - first:
+      213: -4144982960416719706
+    second: xmas snowball sprite(1)_811
+  - first:
+      213: 4144644747148013822
+    second: xmas snowball sprite(1)_812
+  - first:
+      213: -5695303922206277455
+    second: xmas snowball sprite(1)_813
+  - first:
+      213: 4361909392669119551
+    second: xmas snowball sprite(1)_814
+  - first:
+      213: -4317788279065028158
+    second: xmas snowball sprite(1)_815
+  - first:
+      213: -4320757747764037621
+    second: xmas snowball sprite(1)_816
+  - first:
+      213: -6891703678221297032
+    second: xmas snowball sprite(1)_817
+  - first:
+      213: -5415455154541347859
+    second: xmas snowball sprite(1)_818
+  - first:
+      213: 4177169704099068093
+    second: xmas snowball sprite(1)_819
+  - first:
+      213: -2769761788262735012
+    second: xmas snowball sprite(1)_820
+  - first:
+      213: -4604865174474763759
+    second: xmas snowball sprite(1)_821
+  - first:
+      213: 6612330389351439696
+    second: xmas snowball sprite(1)_822
+  - first:
+      213: -1804018982728014554
+    second: xmas snowball sprite(1)_823
+  - first:
+      213: -2407397508121142535
+    second: xmas snowball sprite(1)_824
+  - first:
+      213: -2536134614984070374
+    second: xmas snowball sprite(1)_825
+  - first:
+      213: -6356325698402543955
+    second: xmas snowball sprite(1)_826
+  - first:
+      213: -2607763638594359912
+    second: xmas snowball sprite(1)_827
+  - first:
+      213: 2984622690278541507
+    second: xmas snowball sprite(1)_828
+  - first:
+      213: -7668760667359158989
+    second: xmas snowball sprite(1)_829
+  - first:
+      213: -2295431539489355763
+    second: xmas snowball sprite(1)_830
+  - first:
+      213: 9184923693682279091
+    second: xmas snowball sprite(1)_831
+  - first:
+      213: -2455807878418119971
+    second: xmas snowball sprite(1)_832
+  - first:
+      213: -6413005642823383895
+    second: xmas snowball sprite(1)_833
+  - first:
+      213: -8772134007335085401
+    second: xmas snowball sprite(1)_834
+  - first:
+      213: -6390936947386863207
+    second: xmas snowball sprite(1)_835
+  - first:
+      213: -5178622234850279823
+    second: xmas snowball sprite(1)_836
+  - first:
+      213: 5898428247936024167
+    second: xmas snowball sprite(1)_837
+  - first:
+      213: 4705006579178167584
+    second: xmas snowball sprite(1)_838
+  - first:
+      213: 2368111488078571739
+    second: xmas snowball sprite(1)_839
+  - first:
+      213: -5053133443927508981
+    second: xmas snowball sprite(1)_840
+  - first:
+      213: -7071271516224975273
+    second: xmas snowball sprite(1)_841
+  - first:
+      213: -9032165612436875342
+    second: xmas snowball sprite(1)_842
+  - first:
+      213: 8348033759771790369
+    second: xmas snowball sprite(1)_843
+  - first:
+      213: 7014155636081131477
+    second: xmas snowball sprite(1)_844
+  - first:
+      213: -4317629485401666191
+    second: xmas snowball sprite(1)_845
+  - first:
+      213: 5858510952570362533
+    second: xmas snowball sprite(1)_846
+  - first:
+      213: -6940551021592817518
+    second: xmas snowball sprite(1)_847
+  - first:
+      213: -1937796080327940264
+    second: xmas snowball sprite(1)_848
+  - first:
+      213: 6960565418653750986
+    second: xmas snowball sprite(1)_849
+  - first:
+      213: -5851691825673215158
+    second: xmas snowball sprite(1)_850
+  - first:
+      213: -7745668188336482321
+    second: xmas snowball sprite(1)_851
+  - first:
+      213: -1713888632664675302
+    second: xmas snowball sprite(1)_852
+  - first:
+      213: 2906536160348558438
+    second: xmas snowball sprite(1)_853
+  - first:
+      213: 1800012941531212758
+    second: xmas snowball sprite(1)_854
+  - first:
+      213: 3046239723326717120
+    second: xmas snowball sprite(1)_855
+  - first:
+      213: -6587975821571093437
+    second: xmas snowball sprite(1)_856
+  - first:
+      213: -224024350535569586
+    second: xmas snowball sprite(1)_857
+  - first:
+      213: 9166379995245780516
+    second: xmas snowball sprite(1)_858
+  - first:
+      213: 6242157975851800918
+    second: xmas snowball sprite(1)_859
+  - first:
+      213: -5182789376478812200
+    second: xmas snowball sprite(1)_860
+  - first:
+      213: -4443929291954495815
+    second: xmas snowball sprite(1)_861
+  - first:
+      213: 3641208788365346014
+    second: xmas snowball sprite(1)_862
+  - first:
+      213: 5908837613963541147
+    second: xmas snowball sprite(1)_863
+  - first:
+      213: 8332735434153152417
+    second: xmas snowball sprite(1)_864
+  - first:
+      213: 1760728475830845850
+    second: xmas snowball sprite(1)_865
+  - first:
+      213: -2289497551573676468
+    second: xmas snowball sprite(1)_866
+  - first:
+      213: -977181663132916522
+    second: xmas snowball sprite(1)_867
+  - first:
+      213: -825472077993848953
+    second: xmas snowball sprite(1)_868
+  - first:
+      213: -8119146723273142449
+    second: xmas snowball sprite(1)_869
+  - first:
+      213: -7740271637576265000
+    second: xmas snowball sprite(1)_870
+  - first:
+      213: -7272162362249723272
+    second: xmas snowball sprite(1)_871
+  - first:
+      213: 1063991044280062670
+    second: xmas snowball sprite(1)_872
+  - first:
+      213: 6015736401334361759
+    second: xmas snowball sprite(1)_873
+  - first:
+      213: 6971719568573921394
+    second: xmas snowball sprite(1)_874
+  - first:
+      213: -6795258554508521457
+    second: xmas snowball sprite(1)_875
+  - first:
+      213: -7407182535414741321
+    second: xmas snowball sprite(1)_876
+  - first:
+      213: -6718566166998414752
+    second: xmas snowball sprite(1)_877
+  - first:
+      213: -3429645033815102130
+    second: xmas snowball sprite(1)_878
+  - first:
+      213: 4231948290123461859
+    second: xmas snowball sprite(1)_879
+  - first:
+      213: 5855494876717978837
+    second: xmas snowball sprite(1)_880
+  - first:
+      213: -8407530398865466679
+    second: xmas snowball sprite(1)_881
+  - first:
+      213: -1845346863059379229
+    second: xmas snowball sprite(1)_882
+  - first:
+      213: -9077910155056281916
+    second: xmas snowball sprite(1)_883
+  - first:
+      213: -7541838829921368978
+    second: xmas snowball sprite(1)_884
+  - first:
+      213: 3347720375583547027
+    second: xmas snowball sprite(1)_885
+  - first:
+      213: 1569433607289058631
+    second: xmas snowball sprite(1)_886
+  - first:
+      213: -5614645977048393961
+    second: xmas snowball sprite(1)_887
+  - first:
+      213: 2177867129538114254
+    second: xmas snowball sprite(1)_888
+  - first:
+      213: 2092014991994604105
+    second: xmas snowball sprite(1)_889
+  - first:
+      213: -3753556321665002342
+    second: xmas snowball sprite(1)_890
+  - first:
+      213: -3810782440488754396
+    second: xmas snowball sprite(1)_891
+  - first:
+      213: -1319030669001978360
+    second: xmas snowball sprite(1)_892
+  - first:
+      213: 3503039863731297215
+    second: xmas snowball sprite(1)_893
+  - first:
+      213: -3076618349583806284
+    second: xmas snowball sprite(1)_894
+  - first:
+      213: 7115397993565950059
+    second: xmas snowball sprite(1)_895
+  - first:
+      213: -5675939474911779414
+    second: xmas snowball sprite(1)_896
+  - first:
+      213: -9202065765022780103
+    second: xmas snowball sprite(1)_897
+  - first:
+      213: -9019144443629194461
+    second: xmas snowball sprite(1)_898
+  - first:
+      213: 870548006945375901
+    second: xmas snowball sprite(1)_899
+  - first:
+      213: 4949797476404750338
+    second: xmas snowball sprite(1)_900
+  - first:
+      213: -4332984597455572929
+    second: xmas snowball sprite(1)_901
+  - first:
+      213: -9223322468921075882
+    second: xmas snowball sprite(1)_902
+  - first:
+      213: 846484702459737134
+    second: xmas snowball sprite(1)_903
+  - first:
+      213: 642338499288919086
+    second: xmas snowball sprite(1)_904
+  - first:
+      213: 5822068108794227649
+    second: xmas snowball sprite(1)_905
+  - first:
+      213: 7520862871282651052
+    second: xmas snowball sprite(1)_906
+  - first:
+      213: -5407410791473804437
+    second: xmas snowball sprite(1)_907
+  - first:
+      213: 7968301040734445251
+    second: xmas snowball sprite(1)_908
+  - first:
+      213: -2076464517576082123
+    second: xmas snowball sprite(1)_909
+  - first:
+      213: -6030837500712428212
+    second: xmas snowball sprite(1)_910
+  - first:
+      213: 1999903937601212335
+    second: xmas snowball sprite(1)_911
+  - first:
+      213: -1815162555391517051
+    second: xmas snowball sprite(1)_912
+  - first:
+      213: -1105090513771602975
+    second: xmas snowball sprite(1)_913
+  - first:
+      213: 4175048150731865787
+    second: xmas snowball sprite(1)_914
+  - first:
+      213: -9203352505801403271
+    second: xmas snowball sprite(1)_915
+  - first:
+      213: -7081164245463286114
+    second: xmas snowball sprite(1)_916
+  - first:
+      213: 1881863221133463292
+    second: xmas snowball sprite(1)_917
+  - first:
+      213: 1249038846953703127
+    second: xmas snowball sprite(1)_918
+  - first:
+      213: 3718765428267900378
+    second: xmas snowball sprite(1)_919
+  - first:
+      213: -668115823542813324
+    second: xmas snowball sprite(1)_920
+  - first:
+      213: -8066789512793710229
+    second: xmas snowball sprite(1)_921
+  - first:
+      213: 8584212264167817102
+    second: xmas snowball sprite(1)_922
+  - first:
+      213: 5817822403164240467
+    second: xmas snowball sprite(1)_923
+  - first:
+      213: 4643558690442970145
+    second: xmas snowball sprite(1)_924
+  - first:
+      213: -3288650533182075007
+    second: xmas snowball sprite(1)_925
+  - first:
+      213: -1973623589655549158
+    second: xmas snowball sprite(1)_926
+  - first:
+      213: -3360265225363362685
+    second: xmas snowball sprite(1)_927
+  - first:
+      213: 8567384717074592232
+    second: xmas snowball sprite(1)_928
+  - first:
+      213: 5172738948059435743
+    second: xmas snowball sprite(1)_929
+  - first:
+      213: -2514402193142703582
+    second: xmas snowball sprite(1)_930
+  - first:
+      213: 8726721454069776505
+    second: xmas snowball sprite(1)_931
+  - first:
+      213: -8888917209748820310
+    second: xmas snowball sprite(1)_932
+  - first:
+      213: 8667350806535198158
+    second: xmas snowball sprite(1)_933
+  - first:
+      213: 48735265227683662
+    second: xmas snowball sprite(1)_934
+  - first:
+      213: -4060617357667539497
+    second: xmas snowball sprite(1)_935
+  - first:
+      213: 7203145329237824418
+    second: xmas snowball sprite(1)_936
+  - first:
+      213: -4651045475535761757
+    second: xmas snowball sprite(1)_937
+  - first:
+      213: -6885553245803036462
+    second: xmas snowball sprite(1)_938
+  - first:
+      213: -7202635519281534099
+    second: xmas snowball sprite(1)_939
+  - first:
+      213: -719984681596890011
+    second: xmas snowball sprite(1)_940
+  - first:
+      213: -860887718251620185
+    second: xmas snowball sprite(1)_941
+  - first:
+      213: -6704354439299046020
+    second: xmas snowball sprite(1)_942
+  - first:
+      213: -5734009267067896276
+    second: xmas snowball sprite(1)_943
+  - first:
+      213: -7179965440492477716
+    second: xmas snowball sprite(1)_944
+  - first:
+      213: 1282079415580799017
+    second: xmas snowball sprite(1)_945
+  - first:
+      213: -3681466437660011936
+    second: xmas snowball sprite(1)_946
+  - first:
+      213: -8851870648072074413
+    second: xmas snowball sprite(1)_947
+  - first:
+      213: 7676334941224190846
+    second: xmas snowball sprite(1)_948
+  - first:
+      213: 4803966113277703291
+    second: xmas snowball sprite(1)_949
+  - first:
+      213: 287229060511476165
+    second: xmas snowball sprite(1)_950
+  - first:
+      213: 5002782102380387738
+    second: xmas snowball sprite(1)_951
+  - first:
+      213: 3180375415655049674
+    second: xmas snowball sprite(1)_952
+  - first:
+      213: -8079111263323529137
+    second: xmas snowball sprite(1)_953
+  - first:
+      213: 8911640910293412462
+    second: xmas snowball sprite(1)_954
+  - first:
+      213: 1890488580598648853
+    second: xmas snowball sprite(1)_955
+  - first:
+      213: -8942297211602987168
+    second: xmas snowball sprite(1)_956
+  - first:
+      213: 3014676807054278884
+    second: xmas snowball sprite(1)_957
+  - first:
+      213: -7709928893158219935
+    second: xmas snowball sprite(1)_958
+  - first:
+      213: -859003597700330974
+    second: xmas snowball sprite(1)_959
+  - first:
+      213: 8222933102644617308
+    second: xmas snowball sprite(1)_960
+  - first:
+      213: -225181747292462085
+    second: xmas snowball sprite(1)_961
+  - first:
+      213: 2068852698824823704
+    second: xmas snowball sprite(1)_962
+  - first:
+      213: 669032036547866476
+    second: xmas snowball sprite(1)_963
+  - first:
+      213: -4936108943437130896
+    second: xmas snowball sprite(1)_964
+  - first:
+      213: -880068224969734149
+    second: xmas snowball sprite(1)_965
+  - first:
+      213: 1311128548885612576
+    second: xmas snowball sprite(1)_966
+  - first:
+      213: -5058534128250474598
+    second: xmas snowball sprite(1)_967
+  - first:
+      213: -4271619085742146485
+    second: xmas snowball sprite(1)_968
+  - first:
+      213: -2407685286255442435
+    second: xmas snowball sprite(1)_969
+  - first:
+      213: 2879175700267470634
+    second: xmas snowball sprite(1)_970
+  - first:
+      213: -1390173583788434208
+    second: xmas snowball sprite(1)_971
+  - first:
+      213: -5072275846415720605
+    second: xmas snowball sprite(1)_972
+  - first:
+      213: 2967428440660442170
+    second: xmas snowball sprite(1)_973
+  - first:
+      213: 3102828509319815
+    second: xmas snowball sprite(1)_974
+  - first:
+      213: -3010874170768773913
+    second: xmas snowball sprite(1)_975
+  - first:
+      213: 2634076671952732225
+    second: xmas snowball sprite(1)_976
+  - first:
+      213: -5404803056290233958
+    second: xmas snowball sprite(1)_977
+  - first:
+      213: -3421116332009131975
+    second: xmas snowball sprite(1)_978
+  - first:
+      213: -9062929357996002086
+    second: xmas snowball sprite(1)_979
+  - first:
+      213: 5472011852754592634
+    second: xmas snowball sprite(1)_980
+  - first:
+      213: 1159059159182244977
+    second: xmas snowball sprite(1)_981
+  - first:
+      213: -759627621710885594
+    second: xmas snowball sprite(1)_982
+  - first:
+      213: -9127402500307684151
+    second: xmas snowball sprite(1)_983
+  - first:
+      213: 6874965738149789007
+    second: xmas snowball sprite(1)_984
+  - first:
+      213: 7385438609935791144
+    second: xmas snowball sprite(1)_985
+  - first:
+      213: 4011001810724668436
+    second: xmas snowball sprite(1)_986
+  - first:
+      213: -6056542722481267751
+    second: xmas snowball sprite(1)_987
+  - first:
+      213: 1823894589907573810
+    second: xmas snowball sprite(1)_988
+  - first:
+      213: -9114909920069644030
+    second: xmas snowball sprite(1)_989
+  - first:
+      213: -8606290396834984638
+    second: xmas snowball sprite(1)_990
+  - first:
+      213: -3437010530780123139
+    second: xmas snowball sprite(1)_991
+  - first:
+      213: -3869496205708101281
+    second: xmas snowball sprite(1)_992
+  - first:
+      213: -1895655537545841913
+    second: xmas snowball sprite(1)_993
+  - first:
+      213: -8008224790034183158
+    second: xmas snowball sprite(1)_994
+  - first:
+      213: -4931886473088743720
+    second: xmas snowball sprite(1)_995
+  - first:
+      213: -8769052198720333279
+    second: xmas snowball sprite(1)_996
+  - first:
+      213: -6235027531914644288
+    second: xmas snowball sprite(1)_997
+  - first:
+      213: -7571883376833542102
+    second: xmas snowball sprite(1)_998
+  - first:
+      213: -2987833078690126257
+    second: xmas snowball sprite(1)_999
+  - first:
+      213: -2072605990709783321
+    second: xmas snowball sprite(1)_1000
+  - first:
+      213: -5474423818503605936
+    second: xmas snowball sprite(1)_1001
+  - first:
+      213: 3893037177652530896
+    second: xmas snowball sprite(1)_1002
+  - first:
+      213: 5009369617971393569
+    second: xmas snowball sprite(1)_1003
+  - first:
+      213: 8302737014282997828
+    second: xmas snowball sprite(1)_1004
+  - first:
+      213: 6451133286766436062
+    second: xmas snowball sprite(1)_1005
+  - first:
+      213: 8780401178215999681
+    second: xmas snowball sprite(1)_1006
+  - first:
+      213: 6289288425609505947
+    second: xmas snowball sprite(1)_1007
+  - first:
+      213: -1674727229555656865
+    second: xmas snowball sprite(1)_1008
+  - first:
+      213: -7026013264313100890
+    second: xmas snowball sprite(1)_1009
+  - first:
+      213: 4212205183034504781
+    second: xmas snowball sprite(1)_1010
+  - first:
+      213: 5751879585452538734
+    second: xmas snowball sprite(1)_1011
+  - first:
+      213: 8841788546667438941
+    second: xmas snowball sprite(1)_1012
+  - first:
+      213: 4738910623856408621
+    second: xmas snowball sprite(1)_1013
+  - first:
+      213: -3942738711029302000
+    second: xmas snowball sprite(1)_1014
+  - first:
+      213: 8864311709261569365
+    second: xmas snowball sprite(1)_1015
+  - first:
+      213: 6077744425863408821
+    second: xmas snowball sprite(1)_1016
+  - first:
+      213: -2988142745793476731
+    second: xmas snowball sprite(1)_1017
+  - first:
+      213: 2455235808268487955
+    second: xmas snowball sprite(1)_1018
+  - first:
+      213: 8760771581588837122
+    second: xmas snowball sprite(1)_1019
+  - first:
+      213: -1549773099911019572
+    second: xmas snowball sprite(1)_1020
+  - first:
+      213: -2979110597984099849
+    second: xmas snowball sprite(1)_1021
+  - first:
+      213: -3607021502526844227
+    second: xmas snowball sprite(1)_1022
+  - first:
+      213: -8936519082392987793
+    second: xmas snowball sprite(1)_1023
+  - first:
+      213: 5053638407569580461
+    second: xmas snowball sprite(1)_1024
+  - first:
+      213: -3000874896054256192
+    second: xmas snowball sprite(1)_1025
+  - first:
+      213: -1485443018117790742
+    second: xmas snowball sprite(1)_1026
+  - first:
+      213: 112248553138281742
+    second: xmas snowball sprite(1)_1027
+  - first:
+      213: 4174249617035137050
+    second: xmas snowball sprite(1)_1028
+  - first:
+      213: -919783561756655572
+    second: xmas snowball sprite(1)_1029
+  - first:
+      213: -8404846252530533452
+    second: xmas snowball sprite(1)_1030
+  - first:
+      213: 4716686804413381306
+    second: xmas snowball sprite(1)_1031
+  - first:
+      213: -1645757697408143547
+    second: xmas snowball sprite(1)_1032
+  - first:
+      213: 4942275285385879044
+    second: xmas snowball sprite(1)_1033
+  - first:
+      213: 2893336533905336489
+    second: xmas snowball sprite(1)_1034
+  - first:
+      213: 8748031855303137555
+    second: xmas snowball sprite(1)_1035
+  - first:
+      213: -936695460531396307
+    second: xmas snowball sprite(1)_1036
+  - first:
+      213: 464015806921015805
+    second: xmas snowball sprite(1)_1037
+  - first:
+      213: 356106497215786952
+    second: xmas snowball sprite(1)_1038
+  - first:
+      213: 1862998429891615934
+    second: xmas snowball sprite(1)_1039
+  - first:
+      213: -2595379421735101083
+    second: xmas snowball sprite(1)_1040
+  - first:
+      213: 3993303536350650993
+    second: xmas snowball sprite(1)_1041
+  - first:
+      213: -3436268482409643409
+    second: xmas snowball sprite(1)_1042
+  - first:
+      213: 7672804200735624438
+    second: xmas snowball sprite(1)_1043
+  - first:
+      213: -1061623490660292737
+    second: xmas snowball sprite(1)_1044
+  - first:
+      213: -6237128603152276070
+    second: xmas snowball sprite(1)_1045
+  - first:
+      213: 8787794420168829698
+    second: xmas snowball sprite(1)_1046
+  - first:
+      213: -4659711641391121641
+    second: xmas snowball sprite(1)_1047
+  - first:
+      213: -8576173097553762242
+    second: xmas snowball sprite(1)_1048
+  - first:
+      213: -7573493272414675853
+    second: xmas snowball sprite(1)_1049
+  - first:
+      213: -3888306276457573534
+    second: xmas snowball sprite(1)_1050
+  - first:
+      213: 8682232886868710
+    second: xmas snowball sprite(1)_1051
+  - first:
+      213: 6961700110249936176
+    second: xmas snowball sprite(1)_1052
+  - first:
+      213: 8787621871666850278
+    second: xmas snowball sprite(1)_1053
+  - first:
+      213: -2330894096086833427
+    second: xmas snowball sprite(1)_1054
+  - first:
+      213: -6768544079425922340
+    second: xmas snowball sprite(1)_1055
+  - first:
+      213: 1169638033617004479
+    second: xmas snowball sprite(1)_1056
+  - first:
+      213: 4396037294601099266
+    second: xmas snowball sprite(1)_1057
+  - first:
+      213: 4840919867027181444
+    second: xmas snowball sprite(1)_1058
+  - first:
+      213: -3415769415801868671
+    second: xmas snowball sprite(1)_1059
+  - first:
+      213: -572582117945708298
+    second: xmas snowball sprite(1)_1060
+  - first:
+      213: -7676689716408695120
+    second: xmas snowball sprite(1)_1061
+  - first:
+      213: 4783851772641571322
+    second: xmas snowball sprite(1)_1062
+  - first:
+      213: 5795886614252578959
+    second: xmas snowball sprite(1)_1063
+  - first:
+      213: -1621892912830388726
+    second: xmas snowball sprite(1)_1064
+  - first:
+      213: 5451029868319379237
+    second: xmas snowball sprite(1)_1065
+  - first:
+      213: 2283185850575031438
+    second: xmas snowball sprite(1)_1066
+  - first:
+      213: 7556597691087940619
+    second: xmas snowball sprite(1)_1067
+  - first:
+      213: -3109511396051332738
+    second: xmas snowball sprite(1)_1068
+  - first:
+      213: -6005710424580192152
+    second: xmas snowball sprite(1)_1069
+  - first:
+      213: -2262385812689827626
+    second: xmas snowball sprite(1)_1070
+  - first:
+      213: -6587064208630915243
+    second: xmas snowball sprite(1)_1071
+  - first:
+      213: 8710070696758824347
+    second: xmas snowball sprite(1)_1072
+  - first:
+      213: -537479501051022425
+    second: xmas snowball sprite(1)_1073
+  - first:
+      213: 4089472179382286683
+    second: xmas snowball sprite(1)_1074
+  - first:
+      213: -1587843800143819672
+    second: xmas snowball sprite(1)_1075
+  - first:
+      213: -2889023764968941440
+    second: xmas snowball sprite(1)_1076
+  - first:
+      213: 2327364614993146759
+    second: xmas snowball sprite(1)_1077
+  - first:
+      213: -3325514434418812133
+    second: xmas snowball sprite(1)_1078
+  - first:
+      213: -4876624713691575257
+    second: xmas snowball sprite(1)_1079
+  - first:
+      213: 8410377732646858168
+    second: xmas snowball sprite(1)_1080
+  - first:
+      213: -8802748764135792965
+    second: xmas snowball sprite(1)_1081
+  - first:
+      213: -6056876322588390136
+    second: xmas snowball sprite(1)_1082
+  - first:
+      213: -9070389868948296558
+    second: xmas snowball sprite(1)_1083
+  - first:
+      213: 3170796055944788014
+    second: xmas snowball sprite(1)_1084
+  - first:
+      213: 1429663018580216931
+    second: xmas snowball sprite(1)_1085
+  - first:
+      213: 1814645222720880447
+    second: xmas snowball sprite(1)_1086
+  - first:
+      213: 6991108485728506730
+    second: xmas snowball sprite(1)_1087
+  - first:
+      213: 168184709181139380
+    second: xmas snowball sprite(1)_1088
+  - first:
+      213: -1416329897701470242
+    second: xmas snowball sprite(1)_1089
+  - first:
+      213: 5036822419631500769
+    second: xmas snowball sprite(1)_1090
+  - first:
+      213: 8606227378645223649
+    second: xmas snowball sprite(1)_1091
+  - first:
+      213: 6316154544565092505
+    second: xmas snowball sprite(1)_1092
+  - first:
+      213: -9210493050524222819
+    second: xmas snowball sprite(1)_1093
+  - first:
+      213: 327808736469980086
+    second: xmas snowball sprite(1)_1094
+  - first:
+      213: -101445295936625443
+    second: xmas snowball sprite(1)_1095
+  - first:
+      213: 7992588249209642012
+    second: xmas snowball sprite(1)_1096
+  - first:
+      213: -8958315106089198025
+    second: xmas snowball sprite(1)_1097
+  - first:
+      213: -3575048527245196273
+    second: xmas snowball sprite(1)_1098
+  - first:
+      213: 5952854401836404285
+    second: xmas snowball sprite(1)_1099
+  - first:
+      213: -5026075352403930156
+    second: xmas snowball sprite(1)_1100
+  - first:
+      213: -7326038182506510421
+    second: xmas snowball sprite(1)_1101
+  - first:
+      213: -8660781321079863665
+    second: xmas snowball sprite(1)_1102
+  - first:
+      213: -9041553813510642930
+    second: xmas snowball sprite(1)_1103
+  - first:
+      213: -9001551712042917564
+    second: xmas snowball sprite(1)_1104
+  - first:
+      213: 319839562412650297
+    second: xmas snowball sprite(1)_1105
+  - first:
+      213: -3825829847837554721
+    second: xmas snowball sprite(1)_1106
+  - first:
+      213: -4779417399243868367
+    second: xmas snowball sprite(1)_1107
+  - first:
+      213: 1757050182920216938
+    second: xmas snowball sprite(1)_1108
+  - first:
+      213: 6671065488802785293
+    second: xmas snowball sprite(1)_1109
+  - first:
+      213: -5979406984759624208
+    second: xmas snowball sprite(1)_1110
+  - first:
+      213: 2768803254699356409
+    second: xmas snowball sprite(1)_1111
+  - first:
+      213: -3866419818776772613
+    second: xmas snowball sprite(1)_1112
+  - first:
+      213: -5437000249966751981
+    second: xmas snowball sprite(1)_1113
+  - first:
+      213: -2427702294838114471
+    second: xmas snowball sprite(1)_1114
+  - first:
+      213: -6120477549521195288
+    second: xmas snowball sprite(1)_1115
+  - first:
+      213: -8845966836194688303
+    second: xmas snowball sprite(1)_1116
+  - first:
+      213: 1270508495036835320
+    second: xmas snowball sprite(1)_1117
+  - first:
+      213: -8432799564693491607
+    second: xmas snowball sprite(1)_1118
+  - first:
+      213: -1913171853523068379
+    second: xmas snowball sprite(1)_1119
+  - first:
+      213: 5555079699789090660
+    second: xmas snowball sprite(1)_1120
+  - first:
+      213: -1399015610103079054
+    second: xmas snowball sprite(1)_1121
+  - first:
+      213: 8883940516110292181
+    second: xmas snowball sprite(1)_1122
+  - first:
+      213: 4139885647817653139
+    second: xmas snowball sprite(1)_1123
+  - first:
+      213: -4500683550757644537
+    second: xmas snowball sprite(1)_1124
+  - first:
+      213: 1350990961082395124
+    second: xmas snowball sprite(1)_1125
+  - first:
+      213: -4782690747641772284
+    second: xmas snowball sprite(1)_1126
+  - first:
+      213: 2819440462047497728
+    second: xmas snowball sprite(1)_1127
+  - first:
+      213: 5151866060734550148
+    second: xmas snowball sprite(1)_1128
+  - first:
+      213: 2598220120707618510
+    second: xmas snowball sprite(1)_1129
+  - first:
+      213: 2786472395177387169
+    second: xmas snowball sprite(1)_1130
+  - first:
+      213: 1484073705913382833
+    second: xmas snowball sprite(1)_1131
+  - first:
+      213: -4031500153951022831
+    second: xmas snowball sprite(1)_1132
+  - first:
+      213: 7012586121751158664
+    second: xmas snowball sprite(1)_1133
+  - first:
+      213: 7404319782934834327
+    second: xmas snowball sprite(1)_1134
+  - first:
+      213: 8819692482253523756
+    second: xmas snowball sprite(1)_1135
+  - first:
+      213: 1579662723201917198
+    second: xmas snowball sprite(1)_1136
+  - first:
+      213: 2864247492307283759
+    second: xmas snowball sprite(1)_1137
+  - first:
+      213: 19472653578023213
+    second: xmas snowball sprite(1)_1138
+  - first:
+      213: -8353856963422761847
+    second: xmas snowball sprite(1)_1139
+  - first:
+      213: 928656067515941714
+    second: xmas snowball sprite(1)_1140
+  - first:
+      213: -3687877744956717350
+    second: xmas snowball sprite(1)_1141
+  - first:
+      213: 1419119336722648158
+    second: xmas snowball sprite(1)_1142
+  - first:
+      213: -1068744029200568789
+    second: xmas snowball sprite(1)_1143
+  - first:
+      213: -8492232438989464224
+    second: xmas snowball sprite(1)_1144
+  - first:
+      213: 9023861768221767274
+    second: xmas snowball sprite(1)_1145
+  - first:
+      213: 1323379589274925677
+    second: xmas snowball sprite(1)_1146
+  - first:
+      213: -6282712102015565723
+    second: xmas snowball sprite(1)_1147
+  - first:
+      213: -7693736988046118468
+    second: xmas snowball sprite(1)_1148
+  - first:
+      213: -3963148720344196241
+    second: xmas snowball sprite(1)_1149
+  - first:
+      213: 9150543264312566202
+    second: xmas snowball sprite(1)_1150
+  - first:
+      213: 2103315843250015967
+    second: xmas snowball sprite(1)_1151
+  - first:
+      213: 8521919507755390179
+    second: xmas snowball sprite(1)_1152
+  - first:
+      213: 3477053047742446664
+    second: xmas snowball sprite(1)_1153
+  - first:
+      213: -7608275449189451575
+    second: xmas snowball sprite(1)_1154
+  - first:
+      213: -5185673627257468905
+    second: xmas snowball sprite(1)_1155
+  - first:
+      213: 6445157491948218268
+    second: xmas snowball sprite(1)_1156
+  - first:
+      213: 8471638311672271641
+    second: xmas snowball sprite(1)_1157
+  - first:
+      213: 8816505344938880985
+    second: xmas snowball sprite(1)_1158
+  - first:
+      213: -3673145071282947477
+    second: xmas snowball sprite(1)_1159
+  - first:
+      213: -8717002882827485811
+    second: xmas snowball sprite(1)_1160
+  - first:
+      213: -4522109437457675647
+    second: xmas snowball sprite(1)_1161
+  - first:
+      213: -8942008904966871005
+    second: xmas snowball sprite(1)_1162
+  - first:
+      213: -6350597829566691727
+    second: xmas snowball sprite(1)_1163
+  - first:
+      213: 6931019033817083804
+    second: xmas snowball sprite(1)_1164
+  - first:
+      213: -8253146595030979844
+    second: xmas snowball sprite(1)_1165
+  - first:
+      213: 1705131261011406331
+    second: xmas snowball sprite(1)_1166
+  - first:
+      213: -2492780466399054441
+    second: xmas snowball sprite(1)_1167
+  - first:
+      213: -6906009878224598608
+    second: xmas snowball sprite(1)_1168
+  - first:
+      213: 6430767568440973944
+    second: xmas snowball sprite(1)_1169
+  - first:
+      213: -6368186860914777495
+    second: xmas snowball sprite(1)_1170
+  - first:
+      213: -5381320480433737567
+    second: xmas snowball sprite(1)_1171
+  - first:
+      213: 13295643247084177
+    second: xmas snowball sprite(1)_1172
+  - first:
+      213: 4527929158943702253
+    second: xmas snowball sprite(1)_1173
+  - first:
+      213: 4179215411629169740
+    second: xmas snowball sprite(1)_1174
+  - first:
+      213: -4373549219546254396
+    second: xmas snowball sprite(1)_1175
+  - first:
+      213: 3538096023805027819
+    second: xmas snowball sprite(1)_1176
+  - first:
+      213: 1886634215620660108
+    second: xmas snowball sprite(1)_1177
+  - first:
+      213: -7787640060205447291
+    second: xmas snowball sprite(1)_1178
+  - first:
+      213: 2509437288106482161
+    second: xmas snowball sprite(1)_1179
+  - first:
+      213: -5823203095042895386
+    second: xmas snowball sprite(1)_1180
+  - first:
+      213: -8853432865647382996
+    second: xmas snowball sprite(1)_1181
+  - first:
+      213: -7111388518750188180
+    second: xmas snowball sprite(1)_1182
+  - first:
+      213: 8036700284888871503
+    second: xmas snowball sprite(1)_1183
+  - first:
+      213: 7192372597992411354
+    second: xmas snowball sprite(1)_1184
+  - first:
+      213: 6431721035295163979
+    second: xmas snowball sprite(1)_1185
+  - first:
+      213: -3389101075460419387
+    second: xmas snowball sprite(1)_1186
+  - first:
+      213: -7278103720186457010
+    second: xmas snowball sprite(1)_1187
+  - first:
+      213: 2680424455162607540
+    second: xmas snowball sprite(1)_1188
+  - first:
+      213: 8025154499242389774
+    second: xmas snowball sprite(1)_1189
+  - first:
+      213: 2240337486178630923
+    second: xmas snowball sprite(1)_1190
+  - first:
+      213: -8478841603161642713
+    second: xmas snowball sprite(1)_1191
+  - first:
+      213: 5590643322411906536
+    second: xmas snowball sprite(1)_1192
+  - first:
+      213: 3079904118292002679
+    second: xmas snowball sprite(1)_1193
+  - first:
+      213: -7359997486483791601
+    second: xmas snowball sprite(1)_1194
+  - first:
+      213: 5474255142898397256
+    second: xmas snowball sprite(1)_1195
+  - first:
+      213: 713403341866741883
+    second: xmas snowball sprite(1)_1196
+  - first:
+      213: -8211688320865203651
+    second: xmas snowball sprite(1)_1197
+  - first:
+      213: 2700978986632110246
+    second: xmas snowball sprite(1)_1198
+  - first:
+      213: -4675620663779699942
+    second: xmas snowball sprite(1)_1199
+  - first:
+      213: 3481134038801579532
+    second: xmas snowball sprite(1)_1200
+  - first:
+      213: -2070751846370606006
+    second: xmas snowball sprite(1)_1201
+  - first:
+      213: -7464438051642771107
+    second: xmas snowball sprite(1)_1202
+  - first:
+      213: 1857549943342294482
+    second: xmas snowball sprite(1)_1203
+  - first:
+      213: -8405916223918308303
+    second: xmas snowball sprite(1)_1204
+  - first:
+      213: 8339120026951280738
+    second: xmas snowball sprite(1)_1205
+  - first:
+      213: 1240271478975344872
+    second: xmas snowball sprite(1)_1206
+  - first:
+      213: 8764211338767468465
+    second: xmas snowball sprite(1)_1207
+  - first:
+      213: 5552502970685723520
+    second: xmas snowball sprite(1)_1208
+  - first:
+      213: -8560168569276623750
+    second: xmas snowball sprite(1)_1209
+  - first:
+      213: -5674371785267417788
+    second: xmas snowball sprite(1)_1210
+  - first:
+      213: -7524036382686956692
+    second: xmas snowball sprite(1)_1211
+  - first:
+      213: 2792530508111272515
+    second: xmas snowball sprite(1)_1212
+  - first:
+      213: 8531595354306000140
+    second: xmas snowball sprite(1)_1213
+  - first:
+      213: -6662579195486664961
+    second: xmas snowball sprite(1)_1214
+  - first:
+      213: -6886620626445243687
+    second: xmas snowball sprite(1)_1215
+  - first:
+      213: -2006837465433522380
+    second: xmas snowball sprite(1)_1216
+  - first:
+      213: -1192295085936071886
+    second: xmas snowball sprite(1)_1217
+  - first:
+      213: 1664638002723143865
+    second: xmas snowball sprite(1)_1218
+  - first:
+      213: 2758106811508615637
+    second: xmas snowball sprite(1)_1219
+  - first:
+      213: 3527081193847915308
+    second: xmas snowball sprite(1)_1220
+  - first:
+      213: -3808094312145218906
+    second: xmas snowball sprite(1)_1221
+  - first:
+      213: 296412497821547023
+    second: xmas snowball sprite(1)_1222
+  - first:
+      213: -5643175096749344098
+    second: xmas snowball sprite(1)_1223
+  - first:
+      213: 5157130058644061517
+    second: xmas snowball sprite(1)_1224
+  - first:
+      213: 4710283940922159316
+    second: xmas snowball sprite(1)_1225
+  - first:
+      213: 4089559804783250500
+    second: xmas snowball sprite(1)_1226
+  - first:
+      213: -2310634408734639752
+    second: xmas snowball sprite(1)_1227
+  - first:
+      213: 7708821569416149233
+    second: xmas snowball sprite(1)_1228
+  - first:
+      213: -4446929904000196075
+    second: xmas snowball sprite(1)_1229
+  - first:
+      213: 4652021813367973192
+    second: xmas snowball sprite(1)_1230
+  - first:
+      213: -8280545704911781849
+    second: xmas snowball sprite(1)_1231
+  - first:
+      213: 5799566035947307702
+    second: xmas snowball sprite(1)_1232
+  - first:
+      213: 7764598965987129526
+    second: xmas snowball sprite(1)_1233
+  - first:
+      213: 2523966788436240835
+    second: xmas snowball sprite(1)_1234
+  - first:
+      213: -8699234221788309503
+    second: xmas snowball sprite(1)_1235
+  - first:
+      213: 9018363982104256113
+    second: xmas snowball sprite(1)_1236
+  - first:
+      213: 6513202125122564986
+    second: xmas snowball sprite(1)_1237
+  - first:
+      213: -2878093849286763413
+    second: xmas snowball sprite(1)_1238
+  - first:
+      213: -3547509491083627784
+    second: xmas snowball sprite(1)_1239
+  - first:
+      213: 8072939169980336878
+    second: xmas snowball sprite(1)_1240
+  - first:
+      213: 2524988033767093938
+    second: xmas snowball sprite(1)_1241
+  - first:
+      213: 5337490430383155116
+    second: xmas snowball sprite(1)_1242
+  - first:
+      213: 2696278987721684352
+    second: xmas snowball sprite(1)_1243
+  - first:
+      213: 3539003973328529741
+    second: xmas snowball sprite(1)_1244
+  - first:
+      213: 3046235856069071808
+    second: xmas snowball sprite(1)_1245
+  - first:
+      213: 7259139932683729717
+    second: xmas snowball sprite(1)_1246
+  - first:
+      213: -2630865651247049122
+    second: xmas snowball sprite(1)_1247
+  - first:
+      213: 1942206802337180424
+    second: xmas snowball sprite(1)_1248
+  - first:
+      213: -8658486100954309214
+    second: xmas snowball sprite(1)_1249
+  - first:
+      213: -6354639601203534783
+    second: xmas snowball sprite(1)_1250
+  - first:
+      213: -5757276566514448725
+    second: xmas snowball sprite(1)_1251
+  - first:
+      213: 2380433489101824956
+    second: xmas snowball sprite(1)_1252
+  - first:
+      213: -4758322488706713202
+    second: xmas snowball sprite(1)_1253
+  - first:
+      213: -2075926253332963759
+    second: xmas snowball sprite(1)_1254
+  - first:
+      213: -2705192378246161135
+    second: xmas snowball sprite(1)_1255
+  - first:
+      213: -2504767435444826266
+    second: xmas snowball sprite(1)_1256
+  - first:
+      213: -2698667734730244001
+    second: xmas snowball sprite(1)_1257
+  - first:
+      213: 4418332761590535297
+    second: xmas snowball sprite(1)_1258
+  - first:
+      213: -3206849575700871183
+    second: xmas snowball sprite(1)_1259
+  - first:
+      213: -9005687334730651347
+    second: xmas snowball sprite(1)_1260
+  - first:
+      213: -3837717502586210925
+    second: xmas snowball sprite(1)_1261
+  - first:
+      213: -5185304066037483060
+    second: xmas snowball sprite(1)_1262
+  - first:
+      213: -3763315151316047493
+    second: xmas snowball sprite(1)_1263
+  - first:
+      213: 3854521130668304861
+    second: xmas snowball sprite(1)_1264
+  - first:
+      213: -4775363402361873543
+    second: xmas snowball sprite(1)_1265
+  - first:
+      213: 9010122646122374357
+    second: xmas snowball sprite(1)_1266
+  - first:
+      213: -1366564021128421418
+    second: xmas snowball sprite(1)_1267
+  - first:
+      213: -5416384282371794485
+    second: xmas snowball sprite(1)_1268
+  - first:
+      213: -4643760231868438911
+    second: xmas snowball sprite(1)_1269
+  - first:
+      213: -4546082439491495206
+    second: xmas snowball sprite(1)_1270
+  - first:
+      213: -1769549049020604696
+    second: xmas snowball sprite(1)_1271
+  - first:
+      213: -1679193974384127242
+    second: xmas snowball sprite(1)_1272
+  - first:
+      213: -8347514579413622333
+    second: xmas snowball sprite(1)_1273
+  - first:
+      213: 7598894726119212836
+    second: xmas snowball sprite(1)_1274
+  - first:
+      213: -903285274210244937
+    second: xmas snowball sprite(1)_1275
+  - first:
+      213: 7808803898198426793
+    second: xmas snowball sprite(1)_1276
+  - first:
+      213: -424633330803358435
+    second: xmas snowball sprite(1)_1277
+  - first:
+      213: -9168220323276729700
+    second: xmas snowball sprite(1)_1278
+  - first:
+      213: 180190743851779405
+    second: xmas snowball sprite(1)_1279
+  - first:
+      213: -2742549759523535401
+    second: xmas snowball sprite(1)_1280
+  - first:
+      213: -1614197106654810865
+    second: xmas snowball sprite(1)_1281
+  - first:
+      213: -7804992931923725801
+    second: xmas snowball sprite(1)_1282
+  - first:
+      213: -7011046480864624807
+    second: xmas snowball sprite(1)_1283
+  - first:
+      213: -8577305473211698151
+    second: xmas snowball sprite(1)_1284
+  - first:
+      213: 8825626382117680584
+    second: xmas snowball sprite(1)_1285
+  - first:
+      213: 567341257685110803
+    second: xmas snowball sprite(1)_1286
+  - first:
+      213: 4110764187517917505
+    second: xmas snowball sprite(1)_1287
+  - first:
+      213: -8421865227241203733
+    second: xmas snowball sprite(1)_1288
+  - first:
+      213: -8143621930423804035
+    second: xmas snowball sprite(1)_1289
+  - first:
+      213: -3765750590177152502
+    second: xmas snowball sprite(1)_1290
+  - first:
+      213: -6113945301882930164
+    second: xmas snowball sprite(1)_1291
+  - first:
+      213: -2865171508600228643
+    second: xmas snowball sprite(1)_1292
+  - first:
+      213: 100462315673343255
+    second: xmas snowball sprite(1)_1293
+  - first:
+      213: -7274319559295625096
+    second: xmas snowball sprite(1)_1294
+  - first:
+      213: 6005262375692013985
+    second: xmas snowball sprite(1)_1295
+  - first:
+      213: -2420824617300378150
+    second: xmas snowball sprite(1)_1296
+  - first:
+      213: 1215676836308055039
+    second: xmas snowball sprite(1)_1297
+  - first:
+      213: -9141115366150034138
+    second: xmas snowball sprite(1)_1298
+  - first:
+      213: -3865803786849929739
+    second: xmas snowball sprite(1)_1299
+  - first:
+      213: -4841782010016350952
+    second: xmas snowball sprite(1)_1300
+  - first:
+      213: 725132375962332222
+    second: xmas snowball sprite(1)_1301
+  - first:
+      213: 94848816495354423
+    second: xmas snowball sprite(1)_1302
+  - first:
+      213: -5378659238427474760
+    second: xmas snowball sprite(1)_1303
+  - first:
+      213: -5745787393827559664
+    second: xmas snowball sprite(1)_1304
+  - first:
+      213: -3049718516564406841
+    second: xmas snowball sprite(1)_1305
+  - first:
+      213: -8429535351593656032
+    second: xmas snowball sprite(1)_1306
+  - first:
+      213: -750261141773674875
+    second: xmas snowball sprite(1)_1307
+  - first:
+      213: -4865048874689169153
+    second: xmas snowball sprite(1)_1308
+  - first:
+      213: -936095322479439038
+    second: xmas snowball sprite(1)_1309
+  - first:
+      213: -6801007323772703015
+    second: xmas snowball sprite(1)_1310
+  - first:
+      213: -3615941865758854098
+    second: xmas snowball sprite(1)_1311
+  - first:
+      213: 6578432777703146368
+    second: xmas snowball sprite(1)_1312
+  - first:
+      213: 751760915260597833
+    second: xmas snowball sprite(1)_1313
+  - first:
+      213: 4804121080235871065
+    second: xmas snowball sprite(1)_1314
+  - first:
+      213: -3653576475488583820
+    second: xmas snowball sprite(1)_1315
+  - first:
+      213: -8441162969770787629
+    second: xmas snowball sprite(1)_1316
+  - first:
+      213: -219765369955786552
+    second: xmas snowball sprite(1)_1317
+  - first:
+      213: -4634829716768071529
+    second: xmas snowball sprite(1)_1318
+  - first:
+      213: -4680702899751259012
+    second: xmas snowball sprite(1)_1319
+  - first:
+      213: -1650881895501427463
+    second: xmas snowball sprite(1)_1320
+  - first:
+      213: -14223265305872083
+    second: xmas snowball sprite(1)_1321
+  - first:
+      213: -7533424748878790539
+    second: xmas snowball sprite(1)_1322
+  - first:
+      213: -6794532108587832075
+    second: xmas snowball sprite(1)_1323
+  - first:
+      213: -1641233156416110145
+    second: xmas snowball sprite(1)_1324
+  - first:
+      213: -7611232111224915784
+    second: xmas snowball sprite(1)_1325
+  - first:
+      213: 4561679147098289823
+    second: xmas snowball sprite(1)_1326
+  - first:
+      213: -4506513325537451256
+    second: xmas snowball sprite(1)_1327
+  - first:
+      213: 1371792659970076930
+    second: xmas snowball sprite(1)_1328
+  - first:
+      213: 5948981340949018752
+    second: xmas snowball sprite(1)_1329
+  - first:
+      213: -3310516055501108767
+    second: xmas snowball sprite(1)_1330
+  - first:
+      213: -6486858154289681043
+    second: xmas snowball sprite(1)_1331
+  - first:
+      213: 4916022096125993895
+    second: xmas snowball sprite(1)_1332
+  - first:
+      213: 1026075036891924734
+    second: xmas snowball sprite(1)_1333
+  - first:
+      213: -2541480290597304679
+    second: xmas snowball sprite(1)_1334
+  - first:
+      213: -8400983515359135487
+    second: xmas snowball sprite(1)_1335
+  - first:
+      213: 5818107510035214496
+    second: xmas snowball sprite(1)_1336
+  - first:
+      213: -1418434761773477020
+    second: xmas snowball sprite(1)_1337
+  - first:
+      213: -1727126886982550037
+    second: xmas snowball sprite(1)_1338
+  - first:
+      213: -5508526472323747280
+    second: xmas snowball sprite(1)_1339
+  - first:
+      213: 6677746122655106093
+    second: xmas snowball sprite(1)_1340
+  - first:
+      213: -1374033318922926572
+    second: xmas snowball sprite(1)_1341
+  - first:
+      213: -5225211022922511610
+    second: xmas snowball sprite(1)_1342
+  - first:
+      213: -506169899503761932
+    second: xmas snowball sprite(1)_1343
+  - first:
+      213: -2083260095660451868
+    second: xmas snowball sprite(1)_1344
+  - first:
+      213: -4131819370352802297
+    second: xmas snowball sprite(1)_1345
+  - first:
+      213: -1150557263294750623
+    second: xmas snowball sprite(1)_1346
+  - first:
+      213: -2221463383525014621
+    second: xmas snowball sprite(1)_1347
+  - first:
+      213: -2275004576614279347
+    second: xmas snowball sprite(1)_1348
+  - first:
+      213: 5394833849991749909
+    second: xmas snowball sprite(1)_1349
+  - first:
+      213: -7826299072376064354
+    second: xmas snowball sprite(1)_1350
+  - first:
+      213: 1999756332768063093
+    second: xmas snowball sprite(1)_1351
+  - first:
+      213: 1160036475140186164
+    second: xmas snowball sprite(1)_1352
+  - first:
+      213: 2834718173736772715
+    second: xmas snowball sprite(1)_1353
+  - first:
+      213: -2508983612182546131
+    second: xmas snowball sprite(1)_1354
+  - first:
+      213: -6848540922645127362
+    second: xmas snowball sprite(1)_1355
+  - first:
+      213: 2666021488739709684
+    second: xmas snowball sprite(1)_1356
+  - first:
+      213: 9059116159305609709
+    second: xmas snowball sprite(1)_1357
+  - first:
+      213: -6543498054484117074
+    second: xmas snowball sprite(1)_1358
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 360
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: xmas snowball sprite(1)_0
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 3973
+        width: 247
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10f622d0d50cf70e0800000000000000
+      internalID: -2269884181286588671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas snowball sprite(1)_1
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 3980
+        width: 132
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e2c551915eea7ad0800000000000000
+      internalID: -2703586592184483099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas snowball sprite(1)_2
+      rect:
+        serializedVersion: 2
+        x: 1519
+        y: 4213
+        width: 108
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d564a04b05a069ea0800000000000000
+      internalID: -5866490122869258659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas snowball sprite(1)_3
+      rect:
+        serializedVersion: 2
+        x: 2076
+        y: 3488
+        width: 610
+        height: 1026
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fa72b15424c09c30800000000000000
+      internalID: 4364203699190528754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas snowball sprite(1)_4
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 4048
+        width: 115
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e4221837935af710800000000000000
+      internalID: 1727785315995886820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas snowball sprite(1)_5
+      rect:
+        serializedVersion: 2
+        x: 1528
+        y: 4178
+        width: 133
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7bde86eaa552d9a0800000000000000
+      internalID: -6209806743689569413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas snowball sprite(1)_6
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 4052
+        width: 101
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c4b8b5798b600190800000000000000
+      internalID: -7998274700080270137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas snowball sprite(1)_7
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 4068
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b59972f519b3a5430800000000000000
+      internalID: 3772393133428939099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas snowball sprite(1)_8
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 4081
+        width: 88
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3333567f26b2d9f60800000000000000
+      internalID: 8042632213610967859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas snowball sprite(1)_9
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 4079
+        width: 53
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f45472d72456e0290800000000000000
+      internalID: -7922283358256151217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas snowball sprite(1)_10
+      rect:
+        serializedVersion: 2
+        x: 1528
+        y: 4066
+        width: 60
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b9e7a12cf5ca6a30800000000000000
+      internalID: 4209394488418232755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas snowball sprite(1)_11
+      rect:
+        serializedVersion: 2
+        x: 1537
+        y: 4013
+        width: 75
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef7e7b7fb426f38c0800000000000000
+      internalID: -4017384264173099010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas snowball sprite(1)_12
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 3924
+        width: 117
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93f74cbc3547896d0800000000000000
+      internalID: -2983506849883193543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas snowball sprite(1)_13
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 3953
+        width: 63
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63e17bb5ef1ad84d0800000000000000
+      internalID: -3130668052120134090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas snowball sprite(1)_14
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 3874
+        width: 161
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 951509c8798026fd0800000000000000
+      internalID: -2350306608542625447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas snowball sprite(1)_15
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 3942
+        width: 81
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50414a829d64330c0800000000000000
+      internalID: -4597252896111455227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas snowball sprite(1)_16
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 3942
+        width: 81
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15aae70a7686e2a40800000000000000
+      internalID: 5345324602018933329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas snowball sprite(1)_17
+      rect:
+        serializedVersion: 2
+        x: 1537
+        y: 3942
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6cb06c5232de6320800000000000000
+      internalID: 2553209152505691246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas snowball sprite(1)_18
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 3684
+        width: 253
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 407d5429a786a22e0800000000000000
+      internalID: -2149790996466641148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas snowball sprite(1)_19
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 3867
+        width: 101
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ff88724ee77b3c00800000000000000
+      internalID: 881430017282183154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas snowball sprite(1)_20
+      rect:
+        serializedVersion: 2
+        x: 1546
+        y: 3911
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61d808a9fa6b0e5d0800000000000000
+      internalID: -3035225283520066282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas snowball sprite(1)_21
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 3815
+        width: 117
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e09609c5fe16df4b0800000000000000
+      internalID: -5405056297096681202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas snowball sprite(1)_22
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 3832
+        width: 63
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29859f003b8295770800000000000000
+      internalID: 8599949712721270930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas snowball sprite(1)_23
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 3791
+        width: 30
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89fc738a0415c0390800000000000000
+      internalID: -7850810712271630440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas snowball sprite(1)_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3279
+        width: 290
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 774fc1d95af3fc320800000000000000
+      internalID: 2580351092044657783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas snowball sprite(1)_25
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 3728
+        width: 113
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8757f053478fb7c0800000000000000
+      internalID: -4053372416419211379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas snowball sprite(1)_26
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 3735
+        width: 62
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 197d9b67db5ad5840800000000000000
+      internalID: 5214506176724195217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas snowball sprite(1)_27
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 3678
+        width: 49
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b679653e47607e7e0800000000000000
+      internalID: -1736412032227960981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas snowball sprite(1)_28
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 3678
+        width: 48
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c698de9bd02903290800000000000000
+      internalID: -7912663957638379156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas snowball sprite(1)_29
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 3731
+        width: 59
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71639334874f863f0800000000000000
+      internalID: -907206527554079209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas snowball sprite(1)_30
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 3678
+        width: 51
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09645a6f115748700800000000000000
+      internalID: 541686575204222608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas snowball sprite(1)_31
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 3272
+        width: 240
+        height: 395
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f39eb630fa50f3600800000000000000
+      internalID: 450084736995158335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas snowball sprite(1)_32
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 3503
+        width: 64
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37c5506f184570150800000000000000
+      internalID: 5838728359064198259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas snowball sprite(1)_33
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 3268
+        width: 257
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4056bc5075064c8e0800000000000000
+      internalID: -1674107234599344892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas snowball sprite(1)_34
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 3270
+        width: 236
+        height: 389
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 938a2ecf9793dee50800000000000000
+      internalID: 6840186605142190137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas snowball sprite(1)_35
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 3274
+        width: 209
+        height: 385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29c7079c3aeac0b50800000000000000
+      internalID: 6560810775654464658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas snowball sprite(1)_36
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 3272
+        width: 203
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f03aad47aad3151f0800000000000000
+      internalID: -1057996635141135601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas snowball sprite(1)_37
+      rect:
+        serializedVersion: 2
+        x: 1801
+        y: 3279
+        width: 221
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97722e6667fa05ca0800000000000000
+      internalID: -6030126977981995143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas snowball sprite(1)_38
+      rect:
+        serializedVersion: 2
+        x: 2050
+        y: 3294
+        width: 119
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcb5011d033966e70800000000000000
+      internalID: 9108129134278630351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas snowball sprite(1)_39
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 2884
+        width: 233
+        height: 377
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7767815119d7bb9e0800000000000000
+      internalID: -1604550780149795209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas snowball sprite(1)_40
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 2884
+        width: 227
+        height: 373
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2f9bc700623297e0800000000000000
+      internalID: -1760289116319408341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas snowball sprite(1)_41
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 2884
+        width: 216
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 243f6321fc8ae0360800000000000000
+      internalID: 7137828066746102594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas snowball sprite(1)_42
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 2886
+        width: 204
+        height: 362
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e390f19c2932b13b0800000000000000
+      internalID: -5540795803202811586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas snowball sprite(1)_43
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 2884
+        width: 207
+        height: 359
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b2987480a2055c40800000000000000
+      internalID: 5500305408343446201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas snowball sprite(1)_44
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 2884
+        width: 205
+        height: 364
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26c092ff60c81f3d0800000000000000
+      internalID: -3174602300640916382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas snowball sprite(1)_45
+      rect:
+        serializedVersion: 2
+        x: 1581
+        y: 2884
+        width: 211
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7021ce9ef085aea0800000000000000
+      internalID: -5862137508879327105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas snowball sprite(1)_46
+      rect:
+        serializedVersion: 2
+        x: 1832
+        y: 2884
+        width: 227
+        height: 373
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1f77304269960ba0800000000000000
+      internalID: -6123037996100387046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas snowball sprite(1)_47
+      rect:
+        serializedVersion: 2
+        x: 2092
+        y: 2884
+        width: 234
+        height: 377
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f319d838414fd1dc0800000000000000
+      internalID: -3666506152666099393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas snowball sprite(1)_48
+      rect:
+        serializedVersion: 2
+        x: 2346
+        y: 2884
+        width: 125
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f96dc417a375c2a0800000000000000
+      internalID: -6717836107707487756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas snowball sprite(1)_49
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 2382
+        width: 240
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee79b2052692f0ff0800000000000000
+      internalID: -67789967158700050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas snowball sprite(1)_50
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 2382
+        width: 240
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7abdc7540c8a42f40800000000000000
+      internalID: 5702868571910888359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas snowball sprite(1)_51
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 2382
+        width: 240
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74491f03d672ce510800000000000000
+      internalID: 1579680919226258503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas snowball sprite(1)_52
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 2382
+        width: 240
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c571b3eb50007ae50800000000000000
+      internalID: 6820420185342285660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas snowball sprite(1)_53
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 2382
+        width: 240
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dc2e1992a8d13450800000000000000
+      internalID: 6066868365909961940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas snowball sprite(1)_54
+      rect:
+        serializedVersion: 2
+        x: 1341
+        y: 2382
+        width: 240
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b4b9d2ae212eb1a0800000000000000
+      internalID: -6791954703843740488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas snowball sprite(1)_55
+      rect:
+        serializedVersion: 2
+        x: 1592
+        y: 2382
+        width: 240
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a0c35e80a0eb7d60800000000000000
+      internalID: 7889146152456798370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas snowball sprite(1)_56
+      rect:
+        serializedVersion: 2
+        x: 1876
+        y: 2459
+        width: 119
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2a158c3b7da11e70800000000000000
+      internalID: 9084232668190939695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas snowball sprite(1)_57
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1875
+        width: 248
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6307660fa91bb2350800000000000000
+      internalID: 5993079008162902070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas snowball sprite(1)_58
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 1873
+        width: 247
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ad23d62f0ddcf0d0800000000000000
+      internalID: -3387589762543833695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas snowball sprite(1)_59
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 1873
+        width: 242
+        height: 398
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f48e6598143bb0fa0800000000000000
+      internalID: -5833371798269925297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas snowball sprite(1)_60
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 1875
+        width: 231
+        height: 394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d817c1176c5fa85c0800000000000000
+      internalID: -4212284268801658483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas snowball sprite(1)_61
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 1875
+        width: 225
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c5bd392d2f9ee710800000000000000
+      internalID: 1724490723643733441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas snowball sprite(1)_62
+      rect:
+        serializedVersion: 2
+        x: 1403
+        y: 1872
+        width: 224
+        height: 395
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 502b4e66c92e09780800000000000000
+      internalID: -8678187320573906427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas snowball sprite(1)_63
+      rect:
+        serializedVersion: 2
+        x: 1687
+        y: 1872
+        width: 209
+        height: 397
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d9000b07ade36450800000000000000
+      internalID: 6080965223580174807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas snowball sprite(1)_64
+      rect:
+        serializedVersion: 2
+        x: 1878
+        y: 1908
+        width: 44
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a325c6c0e53fa0590800000000000000
+      internalID: -7707080227030281670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas snowball sprite(1)_65
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 1873
+        width: 201
+        height: 396
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d2b3634475b3d200800000000000000
+      internalID: 203705919113245392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas snowball sprite(1)_66
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 1946
+        width: 53
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0cb419f6c40837a0800000000000000
+      internalID: -6397358018050868212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas snowball sprite(1)_67
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1410
+        width: 219
+        height: 396
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc2b94f25889dfec0800000000000000
+      internalID: -3531498834997169459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas snowball sprite(1)_68
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 1489
+        width: 29
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7889f9452630e75f0800000000000000
+      internalID: -757163966490240889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas snowball sprite(1)_69
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 1410
+        width: 237
+        height: 396
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9ac8e58038973d30800000000000000
+      internalID: 4411161694205168282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas snowball sprite(1)_70
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 1410
+        width: 248
+        height: 393
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2360b5f39326cbf0800000000000000
+      internalID: -304516806411787475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas snowball sprite(1)_71
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 1363
+        width: 119
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abd7cc430b9797360800000000000000
+      internalID: 7167894079643876794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas snowball sprite(1)_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 927
+        width: 254
+        height: 414
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11f4e2b9465d0fed0800000000000000
+      internalID: -2382169574802043119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas snowball sprite(1)_73
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 927
+        width: 256
+        height: 410
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 993d5e0a01a584070800000000000000
+      internalID: 8090815758036489113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas snowball sprite(1)_74
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 927
+        width: 228
+        height: 399
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 614b0074937d6a920800000000000000
+      internalID: 3001322842693350422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas snowball sprite(1)_75
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 927
+        width: 302
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73c0fff8aae4201a0800000000000000
+      internalID: -6844821989182469065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas snowball sprite(1)_76
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 927
+        width: 385
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb52bc23ad0eb0d00800000000000000
+      internalID: 940092174996547003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas snowball sprite(1)_77
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 909
+        width: 458
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f71ae96ee0ec3cf0800000000000000
+      internalID: -271094562965284871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas snowball sprite(1)_78
+      rect:
+        serializedVersion: 2
+        x: 2075
+        y: 931
+        width: 182
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bdb0a3a63002bc90800000000000000
+      internalID: -7155656623264842319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas snowball sprite(1)_79
+      rect:
+        serializedVersion: 2
+        x: 2275
+        y: 925
+        width: 411
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78a8ed9373f46bca0800000000000000
+      internalID: -6001522354811925881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas snowball sprite(1)_80
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 669
+        width: 187
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5917c9a6c99f40610800000000000000
+      internalID: 1586667418940109205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas snowball sprite(1)_81
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 632
+        width: 333
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a0b0d4aab4cb8960800000000000000
+      internalID: 7605388701653315748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas snowball sprite(1)_82
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 672
+        width: 187
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b68238709bb90a800800000000000000
+      internalID: 621667967574419563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas snowball sprite(1)_83
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 563
+        width: 340
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d029e39878f431830800000000000000
+      internalID: 4040660734223225357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas snowball sprite(1)_84
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 570
+        width: 121
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3361ca3adb880dbb0800000000000000
+      internalID: -4913276845385050573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas snowball sprite(1)_85
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 8
+        width: 1042
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d940c199c2fe4870800000000000000
+      internalID: 8669133280282429909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas snowball sprite(1)_86
+      rect:
+        serializedVersion: 2
+        x: 2086
+        y: 479
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e302d4c41c7a0be0800000000000000
+      internalID: -1510258296386092064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas snowball sprite(1)_87
+      rect:
+        serializedVersion: 2
+        x: 2061
+        y: 0
+        width: 613
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02d7910d46d44a960800000000000000
+      internalID: 7612294365546380576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

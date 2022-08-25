@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 880dd46359330ac4d9ece37aedc33563
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Like Snow
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: ff7722a575d93554f8f32e009aa21d51, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

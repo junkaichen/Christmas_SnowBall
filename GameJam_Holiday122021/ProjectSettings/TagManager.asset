@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Present2
+  - BoundaryLine
+  - Present1
+  - Player1
+  - Player2
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 3560822829
+    locked: 0
+  - name: Platforms
+    uniqueID: 3618451237
+    locked: 0
+  - name: Player
+    uniqueID: 2934050545
+    locked: 0
+  - name: SnowBall
+    uniqueID: 1757445163
+    locked: 0
+  - name: Targeting
+    uniqueID: 758947041
+    locked: 0
+  - name: Example
+    uniqueID: 419924259
+    locked: 0
+  - name: Word
+    uniqueID: 1186655795
+    locked: 0
